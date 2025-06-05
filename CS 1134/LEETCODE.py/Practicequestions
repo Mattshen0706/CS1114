@@ -1,0 +1,94 @@
+<!-- Distribute Candies amongst 2 children
+
+You are given two positive integers n and limit.
+
+Return the total number of ways to distribute n candies among 3 children such that no child gets more than limit candies.
+
+
+Example 1:
+
+Input: n = 5, limit = 2
+Output: 3
+Explanation: There are 3 ways to distribute 5 candies such that no child gets more than 2 candies: (1, 2, 2), (2, 1, 2) and (2, 2, 1).
+Example 2:
+
+Input: n = 3, limit = 3
+Output: 10
+Explanation: There are 10 ways to distribute 3 candies such that no child gets more than 3 candies: (0, 0, 3), (0, 1, 2), (0, 2, 1), (0, 3, 0), (1, 0, 2), (1, 1, 1), (1, 2, 0), (2, 0, 1), (2, 1, 0) and (3, 0, 0).
+ 
+
+Constraints:
+
+1 <= n <= 10^6
+1 <= limit <= 10^6
+
+
+class Solution(object):
+    def distributeCandies(self, n, limit):
+        self.n=n
+        self.limit=limit
+
+
+def distributeCandies(self, n, limit):
+    sum of all 3 indiviudal quantities must equal to n 
+    no one particular person can exceed the limit:
+    
+    case 1: available < limit
+        set one person to n
+
+        order does matter is permutation so 3 factorial changes
+
+        (0,2,1),(0,1,2),(1,2,0),(2,0,1)
+
+
+    
+    number of ways to distribute is equal to
+
+total=x
+
+if person 1 gets 
+
+if n>limit:
+
+if n >limit
+
+if n >3*limit
+only have 1 solution 
+
+def distributeCandies(self, n, limit):
+    if n>=3*limit:
+        return 1
+    elif n<limit:
+        return ((n+2)(n-1))/2
+    else:
+
+     -->
+
+
+
+
+def longestPalindrome(string1,formattedstring=""):
+    if len(string1)==1:
+        return formattedstring + string1 + formattedstring[::-1] 
+    else:
+        left=string1[0]
+        right=string1[len(string1)]
+        if left== right
+            formattedstring += left
+            return longestPalindrone(string1[1:len(string1)-1],formattedstring)
+        else:
+            formattedstring=""
+            return longestPalindrome(string1[1:len(string1)],formattedstring)
+            
+
+        
+
+
+
+
+
+
+
+
+
+

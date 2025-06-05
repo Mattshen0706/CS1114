@@ -1,0 +1,1001 @@
+n_number,first_name,last_name,email,gpa,grad_year,street,city,state,postal_code
+N69367,Germayne,Summersby,gsummersby0@nyu.edu,0.853,2024,47329 Glacier Hill Drive,Portsmouth,VA,23705
+N60829,Joann,Gellett,jgellett1@nyu.edu,0.102,2023,0658 Arapahoe Pass,Louisville,KY,40266
+N50434,Josey,Poundford,jpoundford2@nyu.edu,1.466,2025,9 Huxley Park,Albany,NY,12232
+N65334,Leighton,Runsey,lrunsey3@nyu.edu,1.168,2027,27 Macpherson Avenue,San Francisco,CA,94177
+N47787,Hephzibah,Bemrose,hbemrose4@nyu.edu,1.93,2024,519 Nova Drive,Lima,OH,45807
+N61638,Cori,Haselhurst,chaselhurst5@nyu.edu,3.886,2027,08 Lakewood Center,Troy,MI,48098
+N50023,Loise,Van Velden,lvanvelden6@nyu.edu,2.829,2023,76438 Hermina Hill,Saint Petersburg,FL,33715
+N43151,Lindy,Haffner,lhaffner7@nyu.edu,3.062,2024,6 Melrose Trail,Philadelphia,PA,19196
+N47613,Chandra,Keneleyside,ckeneleyside8@nyu.edu,1.469,2024,7 Scoville Way,Roanoke,VA,24034
+N70164,Margot,Jeannenet,mjeannenet9@nyu.edu,2.266,2024,9 Huxley Plaza,Kansas City,MO,64125
+N42114,Coralie,Churchin,cchurchina@nyu.edu,0.556,2027,460 Miller Parkway,Atlanta,GA,30343
+N79364,Mela,Tweedlie,mtweedlieb@nyu.edu,2.847,2023,40491 Maple Parkway,Mobile,AL,36689
+N40702,Caldwell,Carthy,ccarthyc@nyu.edu,1.359,2026,0 Linden Plaza,Topeka,KS,66606
+N41394,Jodee,Cess,jcessd@nyu.edu,2.911,2025,5 Birchwood Road,Dayton,OH,45454
+N44395,Merline,Brookwood,mbrookwoode@nyu.edu,1.176,2026,07 Victoria Road,Las Vegas,NV,89140
+N69348,Alastair,Atwel,aatwelf@nyu.edu,3.119,2026,092 4th Road,Washington,DC,20508
+N71158,Spense,Duthie,sduthieg@nyu.edu,2.67,2026,956 Continental Alley,Springfield,MO,65805
+N51872,Freemon,Fulleylove,ffulleyloveh@nyu.edu,2.625,2027,01 Anthes Avenue,Moreno Valley,CA,92555
+N83155,Dilan,Kerfoot,dkerfooti@nyu.edu,3.04,2023,8 Melody Plaza,Trenton,NJ,08638
+N69913,Lilli,Banham,lbanhamj@nyu.edu,3.849,2026,05 Lighthouse Bay Park,San Diego,CA,92115
+N57036,Tresa,O'Henery,toheneryk@nyu.edu,1.842,2027,591 Bay Alley,Washington,DC,20470
+N48119,Cece,Chiswell,cchiswelll@nyu.edu,2.189,2026,55 Mifflin Avenue,San Jose,CA,95133
+N70916,Zed,Blanko,zblankom@nyu.edu,2.795,2024,8 Artisan Trail,Chicago,IL,60681
+N69072,Brendan,Haggath,bhaggathn@nyu.edu,0.829,2027,2 Luster Court,Nashville,TN,37210
+N87919,Elberta,Fray,efrayo@nyu.edu,0.17,2027,83 Randy Junction,San Antonio,TX,78245
+N59099,Tanhya,Purves,tpurvesp@nyu.edu,3.951,2023,8396 Ronald Regan Point,Birmingham,AL,35244
+N55447,Archibald,McAnalley,amcanalleyq@nyu.edu,3.325,2023,203 Glacier Hill Road,Shreveport,LA,71105
+N81617,Arty,Laughlan,alaughlanr@nyu.edu,1.759,2025,83 Nevada Junction,Bowie,MD,20719
+N78554,Cullan,Clemenceau,cclemenceaus@nyu.edu,3.871,2023,52032 Stephen Hill,Cedar Rapids,IA,52410
+N63410,Hersh,Bertelmot,hbertelmott@nyu.edu,1.53,2023,7 Knutson Terrace,Birmingham,AL,35295
+N80332,Cooper,Kment,ckmentu@nyu.edu,2.398,2023,5 Shopko Avenue,San Antonio,TX,78285
+N74153,Irina,Posnette,iposnettev@nyu.edu,2.473,2023,472 Petterle Court,Tampa,FL,33610
+N44237,Jacynth,Laible,jlaiblew@nyu.edu,0.412,2025,17 Bunting Point,Charleston,SC,29411
+N44341,Sarajane,Giraudo,sgiraudox@nyu.edu,0.276,2023,8 Anthes Junction,Houston,TX,77288
+N71712,Anthony,Quarmby,aquarmbyy@nyu.edu,3.87,2027,304 Burning Wood Trail,Cincinnati,OH,45296
+N58892,Arri,Arboin,aarboinz@nyu.edu,0.398,2023,849 Atwood Pass,Brooklyn,NY,11247
+N87080,Kurtis,Momery,kmomery10@nyu.edu,0.794,2024,35730 Corben Circle,Phoenix,AZ,85025
+N48774,Kelbee,De Stoop,kdestoop11@nyu.edu,0.459,2027,36 Florence Lane,Erie,PA,16505
+N78396,Nonie,Devennie,ndevennie12@nyu.edu,3.473,2027,983 Harper Terrace,Houston,TX,77090
+N70904,Lennard,Churn,lchurn13@nyu.edu,0.792,2026,188 Forest Run Way,Des Moines,IA,50362
+N53539,Des,Corrigan,dcorrigan14@nyu.edu,3.712,2026,2 Chinook Street,Dallas,TX,75241
+N60015,Leontine,Tempest,ltempest15@nyu.edu,2.686,2025,3 Cambridge Street,Austin,TX,78769
+N59669,Ynez,Praten,ypraten16@nyu.edu,3.138,2026,7852 Farwell Junction,Long Beach,CA,90805
+N84344,Cassi,Coppledike,ccoppledike17@nyu.edu,3.824,2025,18 Petterle Plaza,Marietta,GA,30061
+N79603,Kenton,Jerg,kjerg18@nyu.edu,3.905,2023,8 Kennedy Terrace,Boulder,CO,80305
+N89177,Loleta,McAteer,lmcateer19@nyu.edu,1.289,2026,2702 7th Road,Atlanta,GA,30351
+N40397,Quinn,Dellit,qdellit1a@nyu.edu,2.038,2024,5 Rowland Park,Saint Louis,MO,63196
+N77862,Carly,Baty,cbaty1b@nyu.edu,1.553,2023,70 Nova Park,Amarillo,TX,79118
+N44843,Dareen,Bert,dbert1c@nyu.edu,2.598,2026,4576 Toban Point,Cincinnati,OH,45218
+N38663,Guntar,Dobsons,gdobsons1d@nyu.edu,2.109,2023,3372 Rockefeller Center,Bethlehem,PA,18018
+N82940,Sheree,Dabrowski,sdabrowski1e@nyu.edu,1.131,2027,956 Pearson Place,Minneapolis,MN,55480
+N87584,Kissie,Rookes,krookes1f@nyu.edu,3.446,2023,0740 Toban Terrace,Washington,DC,20591
+N60183,Erv,Jowling,ejowling1g@nyu.edu,0.108,2024,86386 Prairieview Way,Warren,MI,48092
+N39333,Billye,Wederell,bwederell1h@nyu.edu,0.827,2024,801 Old Gate Circle,El Paso,TX,88519
+N52390,Branden,Strodder,bstrodder1i@nyu.edu,0.811,2027,4 Scoville Plaza,Arlington,VA,22212
+N57465,Tressa,McIlhone,tmcilhone1j@nyu.edu,1.039,2024,904 Schiller Court,Panama City,FL,32405
+N82147,Beaufort,Spackman,bspackman1k@nyu.edu,2.957,2026,88360 Stone Corner Crossing,Anaheim,CA,92825
+N46213,Hunt,Ottee,hottee1l@nyu.edu,0.248,2024,7 Valley Edge Street,Lakeland,FL,33805
+N79656,Michele,Dewick,mdewick1m@nyu.edu,3.016,2024,96 South Drive,Waterbury,CT,06721
+N56146,Tammie,Ebbutt,tebbutt1n@nyu.edu,0.798,2027,831 Corscot Crossing,Oklahoma City,OK,73157
+N83428,Savina,Eltun,seltun1o@nyu.edu,2.993,2025,44 Forster Parkway,Rochester,NY,14683
+N50651,Shauna,London,slondon1p@nyu.edu,3.584,2027,6 Jackson Center,Buffalo,NY,14233
+N88396,Yancey,Gillcrist,ygillcrist1q@nyu.edu,2.038,2024,569 Sachtjen Avenue,Carson City,NV,89714
+N44480,Henryetta,Gulliford,hgulliford1r@nyu.edu,0.95,2026,666 Spaight Road,Levittown,PA,19058
+N69153,Ewan,Ivanyutin,eivanyutin1s@nyu.edu,3.517,2027,4 Evergreen Terrace,Migrate,KY,41905
+N66474,Rora,Klimecki,rklimecki1t@nyu.edu,2.067,2025,69302 Kennedy Point,Jacksonville,FL,32259
+N38715,Gusty,Cookes,gcookes1u@nyu.edu,0.489,2024,4669 4th Circle,North Little Rock,AR,72118
+N60573,Forbes,Baptist,fbaptist1v@nyu.edu,1.237,2026,1611 Northridge Avenue,Hampton,VA,23668
+N63843,Pammi,Blouet,pblouet1w@nyu.edu,3.605,2023,178 Dapin Avenue,Pittsburgh,PA,15255
+N81449,Trudey,Dingley,tdingley1x@nyu.edu,2.899,2026,2154 Montana Alley,Sarasota,FL,34238
+N89398,Silvio,Balke,sbalke1y@nyu.edu,1.356,2024,7323 Ryan Hill,Stockton,CA,95205
+N51033,Buckie,Carreyette,bcarreyette1z@nyu.edu,0.978,2023,7 Pankratz Drive,San Antonio,TX,78255
+N50574,Roxi,Pepin,rpepin20@nyu.edu,3.962,2026,80 Bluejay Avenue,Greensboro,NC,27425
+N87269,Lyn,Buxton,lbuxton21@nyu.edu,2.082,2027,85 Clemons Way,Topeka,KS,66606
+N46572,Benoite,Rubberts,brubberts22@nyu.edu,3.996,2026,461 Florence Pass,New Orleans,LA,70124
+N40719,Ginevra,Leonarde,gleonarde23@nyu.edu,3.826,2027,0287 Quincy Alley,Memphis,TN,38119
+N70413,Tanny,Rosencrantz,trosencrantz24@nyu.edu,0.817,2023,5996 Wayridge Point,Davenport,IA,52809
+N72817,Dorothea,Mattedi,dmattedi25@nyu.edu,0.196,2023,2223 Continental Court,Lake Charles,LA,70607
+N67206,Brent,Ferrar,bferrar26@nyu.edu,1.216,2025,3 Talmadge Lane,Brooklyn,NY,11236
+N69751,Roch,Escofier,rescofier27@nyu.edu,1.276,2024,08 Dryden Hill,Buffalo,NY,14263
+N82451,Ange,Eefting,aeefting28@nyu.edu,3.027,2024,8 Kingsford Center,Salt Lake City,UT,84135
+N46511,Camilla,Leak,cleak29@nyu.edu,3.192,2025,178 Paget Court,Charlotte,NC,28256
+N70122,Iolanthe,Fidler,ifidler2a@nyu.edu,3.99,2026,616 Carberry Circle,El Paso,TX,79950
+N51092,Lavina,Peacocke,lpeacocke2b@nyu.edu,2.451,2025,5 Erie Avenue,Raleigh,NC,27635
+N70373,Vern,Accombe,vaccombe2c@nyu.edu,0.227,2024,190 Thierer Junction,Jersey City,NJ,07305
+N77574,Myrvyn,Maffin,mmaffin2d@nyu.edu,1.442,2026,43 Corscot Alley,North Las Vegas,NV,89036
+N47117,Jilleen,Beadnell,jbeadnell2e@nyu.edu,0.594,2026,7835 Lakewood Drive,Nashville,TN,37245
+N85838,Rabbi,Richens,rrichens2f@nyu.edu,3.797,2026,7939 Northwestern Lane,Buffalo,NY,14276
+N38189,Coralyn,Packington,cpackington2g@nyu.edu,2.196,2023,047 Artisan Road,Yonkers,NY,10705
+N41116,Marnia,Pumfrett,mpumfrett2h@nyu.edu,0.459,2026,0825 Crownhardt Parkway,Portland,OR,97201
+N56088,Erie,Jameson,ejameson2i@nyu.edu,3.091,2023,8168 Crescent Oaks Alley,Albuquerque,NM,87140
+N79661,Honey,Grabeham,hgrabeham2j@nyu.edu,2.016,2026,04503 Sutteridge Parkway,Columbus,OH,43268
+N64322,Ange,Barnby,abarnby2k@nyu.edu,1.004,2025,2 Buena Vista Avenue,Buffalo,NY,14263
+N84814,Missie,Berkelay,mberkelay2l@nyu.edu,0.332,2024,19602 Lukken Street,New York City,NY,10014
+N82866,Vanny,Lowdham,vlowdham2m@nyu.edu,0.155,2026,18903 Valley Edge Point,Jackson,MS,39204
+N52020,Boigie,Minett,bminett2n@nyu.edu,1.378,2023,84833 Maryland Road,New York City,NY,10004
+N84779,Halette,Chesnay,hchesnay2o@nyu.edu,1.599,2023,81807 Redwing Point,Dayton,OH,45408
+N47569,Archibaldo,Gatsby,agatsby2p@nyu.edu,0.288,2024,945 Caliangt Center,Colorado Springs,CO,80951
+N66422,Merrie,Coppens,mcoppens2q@nyu.edu,3.966,2026,96 Bellgrove Terrace,Seattle,WA,98166
+N57650,Parrnell,Chomicz,pchomicz2r@nyu.edu,3.5,2024,9575 Graceland Street,San Antonio,TX,78291
+N76042,Kylie,Acreman,kacreman2s@nyu.edu,0.783,2027,28089 Continental Way,Stamford,CT,06905
+N49391,Sheeree,Kershaw,skershaw2t@nyu.edu,0.845,2024,8 Hooker Crossing,Wichita,KS,67230
+N45978,Prissie,Castagne,pcastagne2u@nyu.edu,3.778,2024,459 Northfield Drive,Los Angeles,CA,90094
+N86303,Brit,Grigori,bgrigori2v@nyu.edu,1.482,2023,12 Maple Wood Place,Pittsburgh,PA,15205
+N87153,Victoir,Mocher,vmocher2w@nyu.edu,0.335,2026,16 Lukken Circle,Boston,MA,02163
+N73736,Hortense,Sales,hsales2x@nyu.edu,1.776,2026,4 Carey Way,Fort Worth,TX,76134
+N57774,Lacee,Manon,lmanon2y@nyu.edu,0.84,2024,17 Lakewood Drive,Roanoke,VA,24004
+N72674,Phoebe,Town,ptown2z@nyu.edu,3.335,2026,17700 Prentice Terrace,Albuquerque,NM,87105
+N41501,Rebecka,Sacchetti,rsacchetti30@nyu.edu,2.515,2025,9 Eastwood Center,Nashville,TN,37210
+N54624,Nikos,Beddall,nbeddall31@nyu.edu,2.664,2024,480 Beilfuss Street,Austin,TX,78710
+N87406,Teri,Yetton,tyetton32@nyu.edu,3.643,2025,622 Bartillon Point,Chicago,IL,60619
+N56082,Uriel,Cossey,ucossey33@nyu.edu,3.533,2024,8 4th Crossing,Irvine,CA,92619
+N67673,Fred,Leonida,fleonida34@nyu.edu,3.909,2024,371 Barnett Parkway,Boise,ID,83727
+N59300,Melli,McCooke,mmccooke35@nyu.edu,1.42,2026,15 Arkansas Circle,Portland,OR,97232
+N73889,Duke,Over,dover36@nyu.edu,1.038,2026,388 Ludington Park,Orlando,FL,32819
+N69341,Marianne,Tinston,mtinston37@nyu.edu,3.948,2025,8592 Carioca Hill,Springfield,MO,65805
+N64688,Dona,Code,dcode38@nyu.edu,2.193,2025,3134 Talmadge Park,Sarasota,FL,34238
+N40233,Kylie,Glamart,kglamart39@nyu.edu,0.32,2026,998 Green Terrace,Salt Lake City,UT,84120
+N82516,Burch,Dyde,bdyde3a@nyu.edu,2.62,2024,87 Kennedy Avenue,Evansville,IN,47747
+N86664,Miran,Maylor,mmaylor3b@nyu.edu,2.489,2025,31561 Rowland Plaza,Sacramento,CA,94230
+N64055,Iseabal,Leighfield,ileighfield3c@nyu.edu,0.249,2024,4 Oneill Terrace,Whittier,CA,90605
+N81354,Archibaldo,Bewshaw,abewshaw3d@nyu.edu,2.663,2027,2863 Cambridge Court,Brooklyn,NY,11236
+N37116,Frederick,Nattriss,fnattriss3e@nyu.edu,3.733,2026,421 Elmside Plaza,Memphis,TN,38150
+N56953,Konstantin,Burrows,kburrows3f@nyu.edu,2.361,2025,8277 Loeprich Avenue,Arlington,VA,22217
+N38616,Jessi,Lorain,jlorain3g@nyu.edu,0.065,2025,157 Crest Line Circle,Arlington,TX,76004
+N65454,Boyce,Ridler,bridler3h@nyu.edu,1.903,2023,316 Bartillon Circle,Charleston,WV,25331
+N41805,Gian,Corkhill,gcorkhill3i@nyu.edu,0.612,2025,96307 Weeping Birch Trail,Las Vegas,NV,89160
+N55932,Vaclav,Paolotto,vpaolotto3j@nyu.edu,2.105,2024,388 Mandrake Junction,Greeley,CO,80638
+N48781,Anthe,Seakings,aseakings3k@nyu.edu,2.031,2026,08 Hoffman Point,Houston,TX,77055
+N74047,Ericha,Attersoll,eattersoll3l@nyu.edu,0.537,2026,7616 Luster Junction,Winston Salem,NC,27150
+N35470,Mamie,Merrison,mmerrison3m@nyu.edu,3.729,2024,36367 Meadow Ridge Junction,Clearwater,FL,34620
+N41467,Louella,Koopman,lkoopman3n@nyu.edu,1.299,2024,57 Loeprich Terrace,Colorado Springs,CO,80910
+N83187,Clark,Morilla,cmorilla3o@nyu.edu,0.135,2023,61 Morrow Terrace,Montgomery,AL,36109
+N46329,Kalvin,Maplethorpe,kmaplethorpe3p@nyu.edu,3.353,2023,66 Novick Center,Spokane,WA,99260
+N52941,Nowell,Fishenden,nfishenden3q@nyu.edu,2.774,2026,49 Sycamore Road,San Diego,CA,92170
+N68355,Sallyann,McVee,smcvee3r@nyu.edu,3.443,2027,7 Emmet Alley,Memphis,TN,38143
+N81689,Gannon,Stoffers,gstoffers3s@nyu.edu,2.408,2025,6080 Russell Hill,Anchorage,AK,99517
+N71484,Harvey,Greaser,hgreaser3t@nyu.edu,2.84,2026,92958 Stephen Avenue,Minneapolis,MN,55428
+N78492,Charity,Cruden,ccruden3u@nyu.edu,1.066,2025,6935 Oak Valley Way,Glendale,CA,91205
+N61994,Dee,Sherratt,dsherratt3v@nyu.edu,3.137,2023,16 Harper Junction,Concord,CA,94522
+N53139,Lee,Lenz,llenz3w@nyu.edu,0.364,2025,2 Ludington Park,Riverside,CA,92505
+N78654,Garreth,Belchamber,gbelchamber3x@nyu.edu,1.315,2025,95379 Clyde Gallagher Pass,Wichita,KS,67236
+N64843,Kermit,Castel,kcastel3y@nyu.edu,3.175,2024,2647 Moose Trail,Miami,FL,33190
+N88408,Bell,Highway,bhighway3z@nyu.edu,3.277,2025,1 Reindahl Court,Omaha,NE,68124
+N36140,Yetta,Sall,ysall40@nyu.edu,2.521,2027,3750 Burning Wood Way,Los Angeles,CA,90076
+N54098,Dannie,Saxby,dsaxby41@nyu.edu,0.748,2023,27 Homewood Park,Dallas,TX,75221
+N83564,Eddie,Judson,ejudson42@nyu.edu,3.291,2024,458 Monument Junction,Hattiesburg,MS,39404
+N36699,Kali,Shuttell,kshuttell43@nyu.edu,3.447,2023,5 Derek Road,Tulsa,OK,74103
+N84108,Penelope,Cagan,pcagan44@nyu.edu,0.416,2026,360 Goodland Center,Evansville,IN,47705
+N43947,Brook,Spurritt,bspurritt45@nyu.edu,1.389,2026,225 Meadow Vale Street,Baltimore,MD,21239
+N66379,Sutton,Kerford,skerford46@nyu.edu,3.949,2025,7211 Welch Drive,San Diego,CA,92165
+N87112,Hadleigh,Kamenar,hkamenar47@nyu.edu,2.956,2024,25571 Stone Corner Drive,Spartanburg,SC,29305
+N43277,Giffer,Culleton,gculleton48@nyu.edu,2.319,2026,37271 Eastwood Drive,Anchorage,AK,99522
+N88868,Maryanne,Snashall,msnashall49@nyu.edu,1.857,2025,9 Troy Hill,San Jose,CA,95160
+N47521,Quinlan,Peachment,qpeachment4a@nyu.edu,1.514,2027,1 Rieder Lane,Sterling,VA,20167
+N86663,Paulina,Goldhawk,pgoldhawk4b@nyu.edu,3.997,2025,6 Maple Park,Macon,GA,31217
+N45863,Wittie,Golsby,wgolsby4c@nyu.edu,1.09,2023,98131 Bayside Crossing,Asheville,NC,28815
+N49131,Suzanne,Sobtka,ssobtka4d@nyu.edu,1.065,2026,9735 4th Street,Montgomery,AL,36134
+N46693,Randell,Hiddy,rhiddy4e@nyu.edu,3.804,2023,669 Lotheville Circle,Hialeah,FL,33013
+N86793,Georg,Rudeyeard,grudeyeard4f@nyu.edu,2.0,2026,188 Graceland Center,Las Vegas,NV,89178
+N84757,Lenka,Huffer,lhuffer4g@nyu.edu,3.787,2024,536 Granby Hill,Sacramento,CA,94263
+N86091,Alexandros,Antic,aantic4h@nyu.edu,0.703,2025,9 Susan Place,El Paso,TX,88563
+N48300,Ellyn,Murrum,emurrum4i@nyu.edu,2.64,2026,88 Thompson Plaza,Riverside,CA,92513
+N52802,Correy,O'Gormley,cogormley4j@nyu.edu,3.126,2027,71062 Sachs Trail,Alexandria,VA,22301
+N64136,Constantin,Kocher,ckocher4k@nyu.edu,2.211,2027,28982 Fremont Street,Syracuse,NY,13217
+N76460,Ignace,Malimoe,imalimoe4l@nyu.edu,2.488,2023,5 Kedzie Point,Saint Petersburg,FL,33715
+N58663,Karoline,Crampsey,kcrampsey4m@nyu.edu,2.72,2027,6410 1st Street,Wilmington,DE,19810
+N72320,Yard,Sibthorp,ysibthorp4n@nyu.edu,2.72,2024,14 Jenna Crossing,Chicago,IL,60624
+N58145,Brita,Hilling,bhilling4o@nyu.edu,0.916,2024,38099 New Castle Terrace,New Orleans,LA,70129
+N45024,Chick,Dentith,cdentith4p@nyu.edu,2.529,2026,07619 Anniversary Junction,Rochester,MN,55905
+N80899,Valeda,Huggett,vhuggett4q@nyu.edu,0.544,2025,6169 Commercial Street,Saint Louis,MO,63131
+N42660,Judi,Werrit,jwerrit4r@nyu.edu,2.95,2023,829 Esker Drive,Petaluma,CA,94975
+N72497,Emmy,Warfield,ewarfield4s@nyu.edu,0.953,2023,44 Leroy Parkway,Columbus,OH,43210
+N62936,Emilee,Mutch,emutch4t@nyu.edu,1.062,2023,5714 Hauk Pass,El Paso,TX,88546
+N74445,Jayson,Dorwood,jdorwood4u@nyu.edu,0.329,2025,98269 Toban Pass,Corpus Christi,TX,78475
+N34650,Viviyan,Eadmead,veadmead4v@nyu.edu,1.449,2026,1968 Northwestern Circle,Frankfort,KY,40618
+N72479,Temple,Blain,tblain4w@nyu.edu,2.262,2025,5472 Lukken Circle,Pensacola,FL,32511
+N72893,Avril,Van Baaren,avanbaaren4x@nyu.edu,3.113,2025,04349 Graceland Alley,Hollywood,FL,33023
+N53761,Clarance,Koppens,ckoppens4y@nyu.edu,0.128,2027,63 Sunfield Drive,Midland,TX,79705
+N41991,Alexandros,Fischer,afischer4z@nyu.edu,1.045,2026,7593 Dawn Point,Washington,DC,20456
+N72893,Sidney,Winwright,swinwright50@nyu.edu,3.639,2027,03 Express Drive,Flushing,NY,11355
+N50459,Jordan,Loseke,jloseke51@nyu.edu,2.261,2024,16 Hoffman Court,Portland,OR,97211
+N37523,Hervey,Heatlie,hheatlie52@nyu.edu,2.381,2026,6569 Nelson Avenue,Garland,TX,75044
+N34833,Gui,Spinnace,gspinnace53@nyu.edu,1.501,2025,58 Elgar Place,Chattanooga,TN,37416
+N56157,Jeffy,Sibly,jsibly54@nyu.edu,2.207,2025,4 Autumn Leaf Hill,Buffalo,NY,14276
+N57439,Faustina,Leftwich,fleftwich55@nyu.edu,1.425,2025,92622 Rusk Terrace,Tallahassee,FL,32309
+N45988,Cristabel,Checketts,cchecketts56@nyu.edu,2.426,2027,2 Iowa Court,Modesto,CA,95397
+N53368,Rosemaria,Gallacher,rgallacher57@nyu.edu,3.651,2026,1888 Westerfield Crossing,Palm Bay,FL,32909
+N65003,Lamar,Lenahan,llenahan58@nyu.edu,3.081,2027,9 Pearson Parkway,New Orleans,LA,70187
+N51621,Linn,Mantrip,lmantrip59@nyu.edu,1.004,2027,664 Brentwood Crossing,Lakeland,FL,33805
+N81810,Candy,Roger,croger5a@nyu.edu,1.767,2027,18117 Welch Lane,Newark,NJ,07188
+N61008,Nydia,Messham,nmessham5b@nyu.edu,1.592,2023,57 Clarendon Drive,Port Saint Lucie,FL,34985
+N88896,Maighdiln,Deem,mdeem5c@nyu.edu,1.179,2025,80 Glacier Hill Avenue,Baton Rouge,LA,70805
+N70027,Sheffield,Shercliff,sshercliff5d@nyu.edu,3.793,2024,8181 Beilfuss Center,Houston,TX,77005
+N65223,Merrielle,Tallent,mtallent5e@nyu.edu,0.796,2025,3184 Fremont Pass,Jefferson City,MO,65105
+N81048,Edna,Shawcroft,eshawcroft5f@nyu.edu,1.793,2027,39446 Colorado Way,Lexington,KY,40515
+N55604,Piper,Struan,pstruan5g@nyu.edu,3.687,2025,852 Nova Point,Rochester,NY,14619
+N50479,Melita,Gameson,mgameson5h@nyu.edu,1.248,2023,86602 Holmberg Pass,San Diego,CA,92110
+N55879,Holly,Hardi,hhardi5i@nyu.edu,0.356,2025,9 American Ash Parkway,Fresno,CA,93721
+N63576,Berri,Ever,bever5j@nyu.edu,3.338,2026,756 Morningstar Way,Sioux Falls,SD,57105
+N71139,Jacquelynn,Edelman,jedelman5k@nyu.edu,1.981,2023,120 Sachs Place,Washington,DC,20425
+N48027,Jeff,Kristiansen,jkristiansen5l@nyu.edu,2.72,2023,27942 Lakeland Trail,Raleigh,NC,27615
+N60761,Lacy,Churn,lchurn5m@nyu.edu,3.583,2024,06 Clove Street,Minneapolis,MN,55436
+N78023,Jammie,Josefsen,jjosefsen5n@nyu.edu,3.801,2025,94784 Caliangt Court,Indianapolis,IN,46202
+N88744,Keven,Haywood,khaywood5o@nyu.edu,3.367,2023,6 Tennessee Junction,Gilbert,AZ,85297
+N72487,Ado,McNeil,amcneil5p@nyu.edu,3.633,2025,2080 Charing Cross Trail,Washington,DC,56944
+N64094,Ajay,Halsey,ahalsey5q@nyu.edu,2.998,2026,65605 Basil Junction,Jersey City,NJ,07305
+N84753,Isaac,Klimek,iklimek5r@nyu.edu,0.852,2025,75 Hoard Crossing,Oklahoma City,OK,73142
+N60938,Chrysler,Gotling,cgotling5s@nyu.edu,2.632,2023,9889 Trailsway Center,Clearwater,FL,34629
+N58479,Jessa,Goard,jgoard5t@nyu.edu,3.721,2023,1855 Melrose Avenue,Oklahoma City,OK,73167
+N56416,Gerardo,Szymanek,gszymanek5u@nyu.edu,2.383,2023,28884 Warbler Trail,Wilkes Barre,PA,18768
+N79342,Man,Magovern,mmagovern5v@nyu.edu,3.087,2025,1 Knutson Street,Washington,DC,20470
+N56131,Tiler,Hallas,thallas5w@nyu.edu,1.745,2024,3818 Eliot Point,Milwaukee,WI,53220
+N48071,Amalee,Dowrey,adowrey5x@nyu.edu,1.034,2027,2441 Mayfield Lane,Oceanside,CA,92056
+N65195,Chery,Golden,cgolden5y@nyu.edu,3.885,2026,95 Main Point,Austin,TX,78749
+N36222,Berenice,Darragon,bdarragon5z@nyu.edu,3.358,2026,874 Coolidge Plaza,Oklahoma City,OK,73157
+N55576,Lura,Fabri,lfabri60@nyu.edu,0.67,2025,4 Maple Wood Lane,Charleston,WV,25389
+N62688,Tris,Baldung,tbaldung61@nyu.edu,1.344,2024,304 Harbort Terrace,Houston,TX,77015
+N88942,Stavro,Grigoriev,sgrigoriev62@nyu.edu,2.838,2027,0 Monument Court,Dallas,TX,75216
+N45415,Casper,Salt,csalt63@nyu.edu,3.335,2027,9 Lake View Point,Washington,DC,20337
+N87239,Madelene,McKernan,mmckernan64@nyu.edu,2.886,2025,1034 Oakridge Drive,Canton,OH,44710
+N68032,Pancho,Gantlett,pgantlett65@nyu.edu,3.656,2023,8261 Express Alley,Lees Summit,MO,64082
+N56914,Killian,Houten,khouten66@nyu.edu,3.955,2023,89217 Schurz Drive,Grand Junction,CO,81505
+N61514,Delbert,Roeby,droeby67@nyu.edu,3.947,2024,0 Golf View Crossing,Worcester,MA,01610
+N50686,Nani,Crosson,ncrosson68@nyu.edu,1.674,2026,874 Coleman Place,Boise,ID,83711
+N83132,Shani,Maultby,smaultby69@nyu.edu,3.73,2023,63 Manufacturers Street,Grand Rapids,MI,49505
+N56925,Verile,MacCumiskey,vmaccumiskey6a@nyu.edu,0.573,2026,613 Crest Line Alley,Colorado Springs,CO,80915
+N60338,Merl,Pickthall,mpickthall6b@nyu.edu,1.632,2025,0312 Fallview Circle,Harrisburg,PA,17110
+N86318,Billie,McGaffey,bmcgaffey6c@nyu.edu,3.911,2024,5541 Mendota Parkway,Loretto,MN,55598
+N43020,Susanna,Dinjes,sdinjes6d@nyu.edu,2.181,2023,0 Sachtjen Pass,Huntington,WV,25770
+N38603,Lucita,Maultby,lmaultby6e@nyu.edu,1.303,2023,2254 Swallow Lane,Chicago,IL,60636
+N54208,Lennie,Lenormand,llenormand6f@nyu.edu,1.374,2025,68 Derek Court,Silver Spring,MD,20904
+N71896,Shari,Lohmeyer,slohmeyer6g@nyu.edu,3.17,2025,04956 Dryden Place,Mesquite,TX,75185
+N64265,Jacky,Keuntje,jkeuntje6h@nyu.edu,2.698,2027,4 Hanson Center,Baltimore,MD,21275
+N47874,Otho,Brothwell,obrothwell6i@nyu.edu,3.515,2023,53123 Prairie Rose Way,El Paso,TX,79989
+N86337,Sofie,Lait,slait6j@nyu.edu,1.774,2025,6 Merry Lane,Huntington Beach,CA,92648
+N36277,Elliott,Rowberry,erowberry6k@nyu.edu,0.282,2023,861 Holmberg Crossing,Pasadena,TX,77505
+N47987,Axe,Duckers,aduckers6l@nyu.edu,0.414,2023,68 Morningstar Alley,Albuquerque,NM,87140
+N64198,Filmer,Du Hamel,fduhamel6m@nyu.edu,3.419,2023,696 Schlimgen Pass,Fort Wayne,IN,46857
+N51104,Franklin,Burnand,fburnand6n@nyu.edu,0.41,2023,2480 Carioca Circle,Knoxville,TN,37931
+N38303,Dwight,Gerault,dgerault6o@nyu.edu,1.83,2023,6171 Dapin Circle,Washington,DC,20073
+N89365,Janet,Dunsire,jdunsire6p@nyu.edu,0.573,2024,57 Lake View Center,Young America,MN,55573
+N70090,Lauryn,Breeder,lbreeder6q@nyu.edu,3.715,2027,64315 Artisan Center,El Paso,TX,79950
+N43799,Sharlene,Jowsey,sjowsey6r@nyu.edu,3.923,2025,847 Express Pass,High Point,NC,27264
+N69057,Kip,Hocking,khocking6s@nyu.edu,2.009,2023,61 Mcguire Avenue,Philadelphia,PA,19093
+N59333,Noell,Stuehmeyer,nstuehmeyer6t@nyu.edu,0.77,2023,74 Union Place,Silver Spring,MD,20910
+N63700,Mariellen,Petrozzi,mpetrozzi6u@nyu.edu,3.005,2025,4338 Meadow Vale Junction,New York City,NY,10060
+N41476,Rees,Crisell,rcrisell6v@nyu.edu,0.994,2023,7 Becker Trail,San Antonio,TX,78205
+N48973,Stepha,Raycroft,sraycroft6w@nyu.edu,1.349,2025,7 Summerview Alley,Rochester,NY,14683
+N51475,Rhonda,Klemencic,rklemencic6x@nyu.edu,3.106,2027,225 North Court,Maple Plain,MN,55572
+N77141,Imogene,Chipping,ichipping6y@nyu.edu,0.393,2027,23 Sutteridge Parkway,Greenville,SC,29605
+N41134,Mimi,Jaggar,mjaggar6z@nyu.edu,1.305,2024,23 Manitowish Terrace,Birmingham,AL,35225
+N52084,Katrinka,Casson,kcasson70@nyu.edu,1.175,2027,4 Knutson Place,Buffalo,NY,14205
+N60173,Deidre,Duerden,dduerden71@nyu.edu,3.949,2025,0446 Buell Pass,Salt Lake City,UT,84189
+N72866,Jessie,Harling,jharling72@nyu.edu,1.792,2026,90 Atwood Drive,Riverside,CA,92513
+N73273,Harriette,Berrill,hberrill73@nyu.edu,0.947,2024,8501 Sachs Terrace,Columbus,OH,43215
+N62576,Deerdre,Hazeldean,dhazeldean74@nyu.edu,0.652,2026,40 Scofield Circle,Huntington,WV,25726
+N86195,Carlye,Goodbarne,cgoodbarne75@nyu.edu,2.967,2026,4113 Reinke Avenue,Oklahoma City,OK,73157
+N73196,Consuelo,Dowderswell,cdowderswell76@nyu.edu,2.71,2024,17 Truax Crossing,Evansville,IN,47732
+N57494,Norby,Garrioch,ngarrioch77@nyu.edu,1.443,2027,90822 Bashford Way,Fort Worth,TX,76147
+N77997,Latia,Bowbrick,lbowbrick78@nyu.edu,0.286,2026,32 Nelson Trail,Scranton,PA,18514
+N76099,Belia,Westmerland,bwestmerland79@nyu.edu,2.835,2027,75197 Calypso Plaza,Pensacola,FL,32590
+N53420,Christoph,Bickford,cbickford7a@nyu.edu,1.045,2026,2 Fairview Place,Savannah,GA,31410
+N70086,Yurik,Bane,ybane7b@nyu.edu,1.507,2023,2 Menomonie Junction,Richmond,VA,23228
+N38116,Di,Henderson,dhenderson7c@nyu.edu,1.78,2024,182 Crescent Oaks Lane,Saint Louis,MO,63169
+N64630,Mitchell,Yeomans,myeomans7d@nyu.edu,2.38,2025,2886 Spohn Way,Fort Wayne,IN,46805
+N77011,Goldie,Fruen,gfruen7e@nyu.edu,1.156,2025,10208 Forster Street,Erie,PA,16565
+N56630,Tanitansy,Tutton,ttutton7f@nyu.edu,3.036,2023,552 Graceland Hill,Topeka,KS,66642
+N69377,Eydie,Patinkin,epatinkin7g@nyu.edu,3.928,2027,52059 Atwood Park,Kansas City,MO,64142
+N80786,Emerson,Kemetz,ekemetz7h@nyu.edu,1.087,2026,77116 Magdeline Terrace,Atlanta,GA,30306
+N80370,Lucy,Downie,ldownie7i@nyu.edu,1.783,2023,11877 Dennis Place,Newport Beach,CA,92662
+N56937,Herve,Abrashkov,habrashkov7j@nyu.edu,1.248,2023,3 Clemons Trail,Lexington,KY,40591
+N38871,Christalle,Le Noir,clenoir7k@nyu.edu,3.629,2023,5083 Killdeer Place,Southfield,MI,48076
+N66246,Rod,O'Sharkey,rosharkey7l@nyu.edu,2.109,2025,243 Loeprich Drive,Hartford,CT,06160
+N42536,Audrie,Bartosik,abartosik7m@nyu.edu,2.075,2023,8620 Schlimgen Plaza,Raleigh,NC,27635
+N42470,Olwen,Dumbleton,odumbleton7n@nyu.edu,0.51,2023,6 Hauk Place,El Paso,TX,79940
+N51781,Jane,Ungerer,jungerer7o@nyu.edu,0.754,2024,8210 Mendota Junction,Washington,DC,20022
+N47556,Frasco,Goodfellow,fgoodfellow7p@nyu.edu,1.421,2027,9330 Stone Corner Pass,Houston,TX,77240
+N43375,Dillie,Wolland,dwolland7q@nyu.edu,3.923,2026,3606 Corry Point,Bradenton,FL,34210
+N81602,Elladine,Flatt,eflatt7r@nyu.edu,0.982,2026,7711 Sherman Center,Denver,CO,80270
+N85376,Sydelle,MacDonogh,smacdonogh7s@nyu.edu,1.09,2026,18 Graceland Point,Richmond,VA,23272
+N57998,Ruthanne,MacAndie,rmacandie7t@nyu.edu,3.375,2027,94 Stone Corner Pass,Arlington,VA,22234
+N69667,Jewelle,Wilshere,jwilshere7u@nyu.edu,1.094,2024,5796 Union Terrace,Atlanta,GA,30328
+N79937,Laure,Gitting,lgitting7v@nyu.edu,3.255,2025,5 Farwell Circle,South Lake Tahoe,CA,96154
+N76176,Jone,Krink,jkrink7w@nyu.edu,1.763,2025,9 Tennyson Road,Tampa,FL,33680
+N85191,Ruprecht,Daine,rdaine7x@nyu.edu,0.951,2024,80 Blackbird Hill,Milwaukee,WI,53220
+N68416,Gracie,Klausewitz,gklausewitz7y@nyu.edu,0.31,2023,46 Stang Street,Birmingham,AL,35225
+N81525,Halette,Clewarth,hclewarth7z@nyu.edu,0.371,2025,00 Milwaukee Trail,Charlotte,NC,28242
+N88058,Thomasin,Fogden,tfogden80@nyu.edu,2.795,2026,00 Morrow Hill,Columbia,SC,29203
+N70444,Nathan,Hendrix,nhendrix81@nyu.edu,3.575,2026,5520 Crest Line Avenue,Macon,GA,31210
+N35316,Merle,Cornuau,mcornuau82@nyu.edu,3.019,2024,8 Pleasure Circle,Columbus,OH,43268
+N46750,Roobbie,Bonnor,rbonnor83@nyu.edu,1.13,2026,42315 Banding Center,Tampa,FL,33661
+N73485,Candice,Castella,ccastella84@nyu.edu,3.914,2023,62568 Clarendon Drive,Boston,MA,02109
+N88783,Rolando,Nieass,rnieass85@nyu.edu,2.021,2026,426 Monica Avenue,Rockford,IL,61105
+N79161,Harwilll,Bogays,hbogays86@nyu.edu,1.086,2025,76 Carioca Avenue,Minneapolis,MN,55441
+N49377,Therine,Elvins,telvins87@nyu.edu,0.005,2023,53910 Vernon Pass,Milwaukee,WI,53263
+N47815,Dannel,Spincke,dspincke88@nyu.edu,2.467,2026,91 Annamark Way,Miami,FL,33175
+N49521,Jeth,Warren,jwarren89@nyu.edu,2.345,2027,77 Jackson Trail,Virginia Beach,VA,23471
+N57414,Jamill,O'Hannigan,johannigan8a@nyu.edu,1.039,2025,38344 Nancy Street,Pittsburgh,PA,15274
+N73371,Masha,Zarb,mzarb8b@nyu.edu,3.195,2025,17691 Merry Avenue,Peoria,IL,61640
+N47335,Loni,Runnett,lrunnett8c@nyu.edu,3.006,2026,05 Warner Pass,Raleigh,NC,27615
+N87122,Reg,Duigenan,rduigenan8d@nyu.edu,2.116,2026,61 Maryland Lane,Hialeah,FL,33018
+N41361,Caprice,Hirtzmann,chirtzmann8e@nyu.edu,0.004,2025,9014 Ridgeway Lane,Indianapolis,IN,46202
+N61942,Darn,Robiot,drobiot8f@nyu.edu,0.365,2027,369 Beilfuss Trail,Charlotte,NC,28272
+N82312,Kyle,Eastlake,keastlake8g@nyu.edu,1.391,2025,942 Cascade Lane,Topeka,KS,66622
+N78643,Iolande,Gammill,igammill8h@nyu.edu,3.986,2027,64334 Loftsgordon Plaza,Silver Spring,MD,20918
+N62106,Rosabella,Trusdale,rtrusdale8i@nyu.edu,2.759,2024,919 Judy Court,Detroit,MI,48224
+N47885,Aluino,Hendrich,ahendrich8j@nyu.edu,0.755,2025,511 Park Meadow Lane,San Francisco,CA,94116
+N74542,Nara,Reardon,nreardon8k@nyu.edu,0.413,2027,833 Kropf Hill,Macon,GA,31205
+N87605,Halimeda,Ommanney,hommanney8l@nyu.edu,1.974,2024,4766 Gale Drive,Missoula,MT,59806
+N53729,Sal,Stiell,sstiell8m@nyu.edu,1.824,2023,1603 Harper Point,Modesto,CA,95397
+N58936,Jefferson,McCoole,jmccoole8n@nyu.edu,2.33,2027,93 Mifflin Avenue,Lehigh Acres,FL,33972
+N45821,Bink,Hargreves,bhargreves8o@nyu.edu,2.39,2027,972 Johnson Parkway,Erie,PA,16510
+N64083,Hildy,McTrustey,hmctrustey8p@nyu.edu,0.186,2023,72418 Bunker Hill Junction,Shreveport,LA,71115
+N89007,Cecilio,Klaaasen,cklaaasen8q@nyu.edu,2.251,2024,44 Arkansas Avenue,Milwaukee,WI,53234
+N58174,Brion,Douris,bdouris8r@nyu.edu,1.034,2026,63 Golf View Crossing,Greenville,SC,29605
+N64653,Bernardo,Catanheira,bcatanheira8s@nyu.edu,3.835,2023,488 Oak Park,Sacramento,CA,94237
+N58395,Nickolai,Pedley,npedley8t@nyu.edu,0.154,2025,194 Carberry Junction,Orange,CA,92862
+N37911,Ansel,Klas,aklas8u@nyu.edu,0.923,2027,449 Arizona Parkway,Cincinnati,OH,45218
+N67217,Porter,Bentick,pbentick8v@nyu.edu,2.833,2023,867 Hazelcrest Drive,Temple,TX,76505
+N76402,Tanner,Jerschke,tjerschke8w@nyu.edu,2.338,2024,9 Magdeline Parkway,Kalamazoo,MI,49006
+N43897,Reinhold,Winsley,rwinsley8x@nyu.edu,1.555,2026,74880 1st Way,Austin,TX,78759
+N45197,Peggi,Randleson,prandleson8y@nyu.edu,1.337,2024,4273 Swallow Drive,Davenport,IA,52809
+N35445,Janot,Mahony,jmahony8z@nyu.edu,3.71,2025,4097 High Crossing Road,Huntington,WV,25705
+N63502,Evelin,Torrent,etorrent90@nyu.edu,0.975,2026,14 Bayside Alley,Phoenix,AZ,85067
+N53776,Sherry,Hubbold,shubbold91@nyu.edu,0.427,2027,8 Lake View Lane,Fort Worth,TX,76147
+N64157,Shaylah,Ciccottio,sciccottio92@nyu.edu,3.4,2027,8 Duke Parkway,Ventura,CA,93005
+N62177,Joscelin,Tretwell,jtretwell93@nyu.edu,3.544,2025,1779 Lakewood Gardens Hill,Montgomery,AL,36177
+N39876,Kaycee,Marzella,kmarzella94@nyu.edu,2.186,2025,02857 Declaration Alley,Beaufort,SC,29905
+N48770,Lillis,Branston,lbranston95@nyu.edu,3.202,2024,04 Fair Oaks Avenue,Waltham,MA,02453
+N79397,Rory,Grzegorzewski,rgrzegorzewski96@nyu.edu,0.145,2023,68104 Gerald Crossing,Lexington,KY,40505
+N85013,Nichol,Attarge,nattarge97@nyu.edu,2.255,2023,61 Truax Road,New York City,NY,10009
+N87516,Noelyn,Sturdy,nsturdy98@nyu.edu,0.371,2023,43595 Kedzie Place,Oklahoma City,OK,73197
+N36288,Isak,Quarles,iquarles99@nyu.edu,3.244,2025,8762 Anthes Lane,Lexington,KY,40524
+N86161,Skipp,Gerty,sgerty9a@nyu.edu,0.863,2024,0719 Messerschmidt Park,Oklahoma City,OK,73190
+N38451,Durand,Impey,dimpey9b@nyu.edu,0.956,2027,97 Manitowish Lane,Beaufort,SC,29905
+N64803,Nolana,Durden,ndurden9c@nyu.edu,2.435,2023,27102 Elgar Point,Schaumburg,IL,60193
+N36614,Katrine,Painswick,kpainswick9d@nyu.edu,1.055,2025,625 Upham Parkway,Cincinnati,OH,45228
+N57817,Cherianne,Easterby,ceasterby9e@nyu.edu,3.22,2024,1 Upham Parkway,Pompano Beach,FL,33064
+N36130,Conway,Paiton,cpaiton9f@nyu.edu,0.458,2026,68 Vermont Hill,Atlanta,GA,31119
+N42836,Vivia,Roles,vroles9g@nyu.edu,0.095,2023,9 Rigney Point,San Francisco,CA,94164
+N65258,Devonna,Feander,dfeander9h@nyu.edu,1.117,2024,8 Pearson Road,Phoenix,AZ,85053
+N57839,Gertrud,Sewards,gsewards9i@nyu.edu,1.535,2025,7 Prentice Park,Young America,MN,55551
+N66227,Rudyard,Langabeer,rlangabeer9j@nyu.edu,2.834,2026,63020 Fulton Center,Charlotte,NC,28284
+N78964,Rosalynd,Barrow,rbarrow9k@nyu.edu,0.06,2024,4706 Anderson Center,Atlanta,GA,31119
+N69670,Huberto,Aurelius,haurelius9l@nyu.edu,0.117,2026,447 Clarendon Junction,Charlotte,NC,28220
+N87136,Ephraim,Scutts,escutts9m@nyu.edu,1.805,2024,7657 Clarendon Alley,Fort Worth,TX,76105
+N53329,Pierrette,Fullman,pfullman9n@nyu.edu,2.356,2023,80990 Del Sol Pass,New Orleans,LA,70154
+N40408,Saba,Wharmby,swharmby9o@nyu.edu,2.276,2024,76543 Pine View Hill,Minneapolis,MN,55423
+N64423,Ariel,Schutter,aschutter9p@nyu.edu,3.001,2027,1041 Toban Lane,Inglewood,CA,90398
+N52157,Rodie,Gawthrope,rgawthrope9q@nyu.edu,1.79,2025,97864 Milwaukee Road,San Francisco,CA,94105
+N80604,Blisse,Carnachen,bcarnachen9r@nyu.edu,0.012,2026,9511 Colorado Lane,Springfield,IL,62776
+N46297,Reinold,Kobus,rkobus9s@nyu.edu,2.019,2023,473 Fair Oaks Street,Columbia,SC,29225
+N67082,Rusty,Emson,remson9t@nyu.edu,1.877,2024,97282 American Ash Parkway,Portsmouth,VA,23705
+N69469,Norina,Lownds,nlownds9u@nyu.edu,3.266,2024,72292 Oakridge Court,Gastonia,NC,28055
+N73548,Selestina,Raddan,sraddan9v@nyu.edu,3.027,2024,447 Riverside Trail,Carson City,NV,89714
+N78967,Viv,D'Ambrogio,vdambrogio9w@nyu.edu,3.985,2026,37 Bunting Terrace,Atlanta,GA,30358
+N57576,Carlota,Scyone,cscyone9x@nyu.edu,2.233,2027,40298 Fuller Road,Iowa City,IA,52245
+N56254,Elora,Riccard,ericcard9y@nyu.edu,1.53,2025,52 Larry Crossing,Troy,MI,48098
+N60964,Dulci,Godbolt,dgodbolt9z@nyu.edu,1.588,2026,480 Declaration Pass,Roanoke,VA,24014
+N68919,Steven,Kyffin,skyffina0@nyu.edu,0.637,2023,349 Eagle Crest Alley,Alexandria,VA,22333
+N88701,Derrek,Ryding,drydinga1@nyu.edu,3.621,2025,84111 Stone Corner Drive,Hartford,CT,06152
+N41400,Pace,Ashby,pashbya2@nyu.edu,2.356,2024,8 Commercial Way,Fort Pierce,FL,34981
+N67330,Agace,Maginn,amaginna3@nyu.edu,0.544,2023,429 Fuller Drive,Scottsdale,AZ,85255
+N73056,Eolanda,Reame,ereamea4@nyu.edu,0.793,2023,41 Pleasure Lane,Santa Monica,CA,90405
+N44686,Josy,Ferfulle,jferfullea5@nyu.edu,2.03,2026,6095 Bartillon Drive,San Diego,CA,92196
+N34636,Kippie,Gianneschi,kgianneschia6@nyu.edu,3.557,2023,2 Mitchell Court,Billings,MT,59112
+N86432,Stanley,Mateev,smateeva7@nyu.edu,0.097,2025,225 Milwaukee Road,Austin,TX,78783
+N69606,Shayne,Girke,sgirkea8@nyu.edu,2.893,2026,5547 Browning Crossing,San Diego,CA,92191
+N76885,Taylor,Sivewright,tsivewrighta9@nyu.edu,2.006,2027,3916 Hayes Street,Tucson,AZ,85754
+N87782,Nonna,Demeter,ndemeteraa@nyu.edu,3.388,2025,91673 Sunfield Plaza,Honolulu,HI,96815
+N36779,Perl,Prate,pprateab@nyu.edu,3.397,2024,812 Gateway Road,Anaheim,CA,92825
+N63770,Elly,Forcer,eforcerac@nyu.edu,1.17,2027,3431 Carey Park,San Antonio,TX,78265
+N73452,Theodore,De Malchar,tdemalcharad@nyu.edu,1.79,2026,50491 Dayton Drive,Birmingham,AL,35231
+N84002,Axe,Bister,abisterae@nyu.edu,2.356,2023,81 3rd Terrace,Tallahassee,FL,32309
+N81030,Edsel,Davenport,edavenportaf@nyu.edu,1.7,2024,87827 Moland Lane,Indianapolis,IN,46278
+N85728,Yorke,Minchell,yminchellag@nyu.edu,1.952,2024,54052 Eastwood Crossing,Austin,TX,78715
+N76941,Johnathon,Harwell,jharwellah@nyu.edu,3.647,2025,275 Cherokee Lane,Sterling,VA,20167
+N63655,Rycca,Sutliff,rsutliffai@nyu.edu,0.75,2025,0920 Northport Parkway,Pueblo,CO,81015
+N84096,Anselma,Adicot,aadicotaj@nyu.edu,3.929,2024,0857 Miller Terrace,Shawnee Mission,KS,66205
+N55932,Cherise,Cristofor,ccristoforak@nyu.edu,2.105,2024,002 Commercial Drive,Houston,TX,77288
+N87357,Alyce,Hudleston,ahudlestonal@nyu.edu,3.863,2025,1 Tony Crossing,Minneapolis,MN,55423
+N74082,Jill,Aberhart,jaberhartam@nyu.edu,2.46,2024,6 Dayton Place,Evansville,IN,47732
+N85007,Rudolfo,Mendenhall,rmendenhallan@nyu.edu,1.524,2024,6 Alpine Plaza,Lansing,MI,48919
+N72222,Madeline,Duke,mdukeao@nyu.edu,3.622,2027,597 Lighthouse Bay Hill,Peoria,IL,61651
+N48952,Lancelot,Nijssen,lnijssenap@nyu.edu,2.47,2023,2687 Lakeland Place,Des Moines,IA,50981
+N77564,Adelaide,Dubois,aduboisaq@nyu.edu,1.271,2026,697 Columbus Circle,Vero Beach,FL,32964
+N61873,Toby,Reany,treanyar@nyu.edu,2.083,2023,10849 Drewry Drive,Mesa,AZ,85205
+N59423,Carmelia,Ingle,cingleas@nyu.edu,2.118,2027,09 Bellgrove Street,Wilmington,NC,28405
+N75127,Joyan,Skeermor,jskeermorat@nyu.edu,3.959,2024,08 Bayside Lane,Fairbanks,AK,99790
+N70243,Palm,Badder,pbadderau@nyu.edu,3.121,2025,7 Cody Terrace,Cleveland,OH,44125
+N60031,Anabel,Terris,aterrisav@nyu.edu,0.653,2026,9 Del Mar Center,Valley Forge,PA,19495
+N85908,Cordy,Osmant,cosmantaw@nyu.edu,0.883,2023,1 Graedel Point,Houston,TX,77234
+N40849,Andrea,Iorizzo,aiorizzoax@nyu.edu,3.28,2024,92 Esch Center,Santa Fe,NM,87592
+N61626,Lorain,Pibworth,lpibworthay@nyu.edu,0.306,2025,2 Barby Alley,Paterson,NJ,07544
+N41146,Barrie,Claricoats,bclaricoatsaz@nyu.edu,2.307,2025,441 Artisan Circle,Portland,OR,97229
+N76645,Swen,Todman,stodmanb0@nyu.edu,0.893,2025,0 Sommers Court,Houston,TX,77090
+N76029,Amabel,Hallatt,ahallattb1@nyu.edu,3.363,2024,717 Claremont Street,Inglewood,CA,90305
+N42529,Jeniffer,Singh,jsinghb2@nyu.edu,0.293,2025,53512 Annamark Court,El Paso,TX,88569
+N79255,Anabal,Fridd,afriddb3@nyu.edu,2.674,2026,735 Portage Terrace,Salt Lake City,UT,84105
+N89435,Derrick,Wickmann,dwickmannb4@nyu.edu,2.003,2026,9 Vermont Alley,Orlando,FL,32825
+N65161,Angelia,Balffye,abalffyeb5@nyu.edu,0.028,2024,43 Stoughton Way,Anaheim,CA,92805
+N79866,Maggee,Broadfield,mbroadfieldb6@nyu.edu,2.415,2027,9529 Luster Terrace,Maple Plain,MN,55579
+N42755,Gabby,Capini,gcapinib7@nyu.edu,1.322,2025,59 Kingsford Park,Paterson,NJ,07522
+N35922,Susanne,Stuehmeyer,sstuehmeyerb8@nyu.edu,2.174,2023,66 High Crossing Junction,Washington,DC,20231
+N35681,Venita,Minchinton,vminchintonb9@nyu.edu,1.608,2023,8 Oneill Pass,Philadelphia,PA,19125
+N63695,Ingelbert,Greatbatch,igreatbatchba@nyu.edu,2.548,2025,51 Mccormick Avenue,Minneapolis,MN,55407
+N58540,Gabi,Eixenberger,geixenbergerbb@nyu.edu,1.779,2024,70162 Banding Pass,El Paso,TX,79984
+N35742,Brendin,Paoli,bpaolibc@nyu.edu,0.433,2026,94121 Sage Hill,Omaha,NE,68164
+N45390,Aurelie,Mertel,amertelbd@nyu.edu,3.201,2027,42 Butterfield Point,Shawnee Mission,KS,66220
+N64753,Melonie,Huck,mhuckbe@nyu.edu,1.965,2023,07915 Dennis Alley,Pinellas Park,FL,34665
+N41294,Fiann,Lynde,flyndebf@nyu.edu,1.156,2027,63316 Meadow Vale Drive,San Bernardino,CA,92415
+N57418,Dame,Defau,ddefaubg@nyu.edu,0.805,2026,128 Elka Hill,Greensboro,NC,27404
+N47844,Helaina,Mc Elory,hmcelorybh@nyu.edu,2.946,2027,36890 Shelley Point,Alhambra,CA,91841
+N61904,Ancell,Steel,asteelbi@nyu.edu,3.227,2025,89 Dayton Lane,Santa Barbara,CA,93106
+N61111,Neall,Vassbender,nvassbenderbj@nyu.edu,0.611,2026,54 School Center,Colorado Springs,CO,80940
+N74825,Celina,Prator,cpratorbk@nyu.edu,2.321,2027,7483 Corben Park,Bonita Springs,FL,34135
+N83032,Delcina,Dyche,ddychebl@nyu.edu,2.076,2025,62189 Grasskamp Terrace,New York City,NY,10120
+N49097,Brigida,Raphael,braphaelbm@nyu.edu,2.404,2027,89 Fairfield Way,South Bend,IN,46614
+N85724,Pinchas,Turle,pturlebn@nyu.edu,3.994,2026,7 Carberry Crossing,Minneapolis,MN,55448
+N70844,Jillene,Greatbanks,jgreatbanksbo@nyu.edu,1.386,2023,65 Division Street,Tulsa,OK,74126
+N81890,Ricky,Blaydes,rblaydesbp@nyu.edu,2.266,2026,9820 Graceland Park,Kansas City,KS,66105
+N50208,Antons,Kirrage,akirragebq@nyu.edu,2.885,2025,3367 Browning Trail,Fresno,CA,93709
+N40778,Sallie,Rainy,srainybr@nyu.edu,0.129,2023,18986 Ohio Junction,Santa Ana,CA,92705
+N42172,Robena,Frayling,rfraylingbs@nyu.edu,0.018,2025,727 La Follette Center,Louisville,KY,40287
+N52360,Sherline,Cutress,scutressbt@nyu.edu,3.28,2026,09 Lien Avenue,Atlanta,GA,30306
+N63426,Aloise,Westmancoat,awestmancoatbu@nyu.edu,1.582,2026,6 Westridge Junction,Pittsburgh,PA,15220
+N71639,Lionel,Haining,lhainingbv@nyu.edu,1.995,2025,8863 East Crossing,Houston,TX,77271
+N69356,Vevay,Gabala,vgabalabw@nyu.edu,0.47,2026,26206 Hauk Crossing,Little Rock,AR,72215
+N66882,Amaleta,Wittleton,awittletonbx@nyu.edu,1.892,2026,71 Del Mar Center,Fort Lauderdale,FL,33310
+N81893,Ashlan,Guppie,aguppieby@nyu.edu,1.502,2025,863 American Ash Parkway,Dallas,TX,75221
+N55837,Keary,Britee,kbriteebz@nyu.edu,3.828,2025,430 Monument Parkway,Silver Spring,MD,20904
+N46792,Valentina,Turner,vturnerc0@nyu.edu,0.514,2027,79 Loeprich Alley,Las Vegas,NV,89135
+N68458,Barn,Matton,bmattonc1@nyu.edu,1.733,2024,23412 Dottie Way,Denver,CO,80217
+N71532,Ignacius,Ion,iionc2@nyu.edu,0.994,2024,551 Rusk Center,Saint Louis,MO,63180
+N51033,Carina,Flippelli,cflippellic3@nyu.edu,0.72,2025,5228 Birchwood Trail,Albuquerque,NM,87115
+N57054,Malissia,O'Doghesty,modoghestyc4@nyu.edu,2.264,2023,2550 Kensington Alley,Jacksonville,FL,32255
+N60912,Erie,Longworth,elongworthc5@nyu.edu,2.114,2026,976 Welch Hill,Houston,TX,77030
+N56962,Blanche,Pucker,bpuckerc6@nyu.edu,0.401,2024,48 Algoma Court,New York City,NY,10004
+N82096,Muriel,Aphale,maphalec7@nyu.edu,3.544,2026,8 High Crossing Avenue,Olympia,WA,98516
+N60105,Taddeo,Shipcott,tshipcottc8@nyu.edu,0.217,2026,45279 Starling Center,Durham,NC,27717
+N61725,Wally,McSkeagan,wmcskeaganc9@nyu.edu,3.46,2027,576 Glendale Park,Buffalo,NY,14225
+N53535,Marian,Sails,msailsca@nyu.edu,0.316,2024,15 Petterle Court,Cleveland,OH,44185
+N50472,Marie-jeanne,Cumber,mcumbercb@nyu.edu,0.487,2027,72836 East Way,Albany,NY,12237
+N61966,Thoma,Losano,tlosanocc@nyu.edu,0.0,2027,316 Sommers Terrace,Sacramento,CA,94273
+N83384,Garfield,Lohoar,glohoarcd@nyu.edu,3.006,2023,560 Lakewood Gardens Street,Fort Lauderdale,FL,33310
+N43030,Braden,Jecock,bjecockce@nyu.edu,3.862,2023,04 Ronald Regan Street,New York City,NY,10009
+N84787,Fania,Briddle,fbriddlecf@nyu.edu,0.545,2025,98475 Sunbrook Avenue,Lansing,MI,48930
+N70729,Amata,Bridgement,abridgementcg@nyu.edu,3.734,2024,223 Garrison Terrace,Stockton,CA,95219
+N75949,Retha,Jonke,rjonkech@nyu.edu,1.875,2025,1 New Castle Way,Saint Louis,MO,63158
+N36583,Cort,Bollini,cbollinici@nyu.edu,0.819,2026,56 Bultman Park,Salt Lake City,UT,84189
+N59305,Aubrette,Fealey,afealeycj@nyu.edu,0.131,2023,056 Glendale Parkway,Milwaukee,WI,53205
+N37351,Sashenka,Gladstone,sgladstoneck@nyu.edu,2.854,2027,98266 Debra Drive,Reston,VA,20195
+N46094,Vladimir,Ritmeyer,vritmeyercl@nyu.edu,0.986,2027,49 Thierer Street,Columbus,GA,31904
+N88196,Valentino,Syncke,vsynckecm@nyu.edu,1.069,2025,1255 Hollow Ridge Way,Akron,OH,44310
+N71466,Pate,Cannicott,pcannicottcn@nyu.edu,1.016,2024,09724 Longview Road,Flint,MI,48550
+N73855,Kate,Robjohns,krobjohnsco@nyu.edu,3.207,2025,2145 Shoshone Avenue,Evansville,IN,47732
+N70618,Berna,Vowles,bvowlescp@nyu.edu,3.471,2025,4 Heath Trail,Minneapolis,MN,55412
+N76261,Brear,O'Loinn,boloinncq@nyu.edu,0.863,2025,57414 Arkansas Terrace,Pasadena,CA,91109
+N76725,Karry,Noddings,knoddingscr@nyu.edu,0.408,2024,71 Cascade Place,Dayton,OH,45403
+N81252,Holt,Pole,hpolecs@nyu.edu,2.969,2023,5 Annamark Drive,Baton Rouge,LA,70894
+N65503,Shanie,Wadlow,swadlowct@nyu.edu,1.678,2026,756 Carberry Circle,Oakland,CA,94611
+N54853,Davie,Alleyn,dalleyncu@nyu.edu,0.677,2025,39 Meadow Ridge Street,Charlotte,NC,28235
+N47412,Catherine,Yashaev,cyashaevcv@nyu.edu,0.961,2026,5338 Vahlen Hill,Austin,TX,78789
+N73381,Stella,Nowlan,snowlancw@nyu.edu,0.997,2026,2 Oriole Pass,Charleston,WV,25389
+N36487,Lanny,Hastwall,lhastwallcx@nyu.edu,0.127,2025,70 Judy Trail,Ashburn,VA,22093
+N77817,Jess,Chugg,jchuggcy@nyu.edu,0.889,2023,97139 Eastlawn Hill,San Francisco,CA,94105
+N78500,Cora,Penlington,cpenlingtoncz@nyu.edu,2.084,2025,1446 Bashford Hill,Kansas City,KS,66112
+N59911,Devin,Collisson,dcollissond0@nyu.edu,0.61,2026,8 Express Point,Salinas,CA,93907
+N77886,Jared,Behnke,jbehnked1@nyu.edu,2.737,2023,28609 Surrey Court,Mesa,AZ,85210
+N81050,Dotti,De Michele,ddemicheled2@nyu.edu,1.769,2027,0 Sommers Plaza,Rochester,MN,55905
+N58667,Angelique,Barron,abarrond3@nyu.edu,0.63,2023,5 Kim Junction,Lexington,KY,40510
+N79752,Frannie,Parradine,fparradined4@nyu.edu,1.988,2024,906 Mallory Terrace,North Hollywood,CA,91606
+N74028,Daveen,Adolf,dadolfd5@nyu.edu,3.779,2025,7489 Anniversary Parkway,Valley Forge,PA,19495
+N70071,Edwin,Revelle,erevelled6@nyu.edu,1.113,2024,7924 Alpine Trail,Denver,CO,80291
+N56617,Loni,O'Crowley,locrowleyd7@nyu.edu,2.369,2023,2310 Melody Street,El Paso,TX,88541
+N70978,Christyna,Franciskiewicz,cfranciskiewiczd8@nyu.edu,0.169,2024,6 Stoughton Parkway,Herndon,VA,22070
+N37303,Arny,Collcott,acollcottd9@nyu.edu,1.007,2023,5 Heffernan Drive,Tacoma,WA,98442
+N35270,Frannie,Janczewski,fjanczewskida@nyu.edu,3.446,2026,6380 Buena Vista Trail,Anchorage,AK,99507
+N69254,Ervin,Taylour,etaylourdb@nyu.edu,1.095,2024,37004 Dakota Drive,Conroe,TX,77305
+N68988,Milo,Wishart,mwishartdc@nyu.edu,0.435,2027,00352 Merrick Center,Denver,CO,80270
+N39962,Skell,Slisby,sslisbydd@nyu.edu,3.041,2025,52 Luster Avenue,San Diego,CA,92110
+N85249,Billy,Harford,bharfordde@nyu.edu,0.578,2026,925 Derek Avenue,Wilmington,DE,19886
+N75762,Crista,Olensby,colensbydf@nyu.edu,2.584,2023,61 Continental Crossing,Richmond,VA,23203
+N73947,Bartholomew,Northern,bnortherndg@nyu.edu,3.493,2025,677 Forest Dale Way,Redwood City,CA,94064
+N61558,Andonis,Illing,aillingdh@nyu.edu,3.191,2024,50 Banding Center,Youngstown,OH,44555
+N67707,Vikky,Luquet,vluquetdi@nyu.edu,3.915,2026,54161 Oak Valley Hill,Fort Pierce,FL,34981
+N45105,Benson,Reckus,breckusdj@nyu.edu,3.238,2025,4881 Logan Crossing,Rochester,NY,14646
+N63431,Davin,Norwood,dnorwooddk@nyu.edu,2.309,2025,5408 Bay Lane,New York City,NY,10024
+N63318,Karel,Entreis,kentreisdl@nyu.edu,1.243,2025,57828 Independence Avenue,Baltimore,MD,21229
+N75342,Heall,Burras,hburrasdm@nyu.edu,0.535,2026,783 Weeping Birch Court,Corpus Christi,TX,78470
+N81946,Pen,Costellow,pcostellowdn@nyu.edu,2.16,2026,95512 Village Terrace,Iowa City,IA,52245
+N66657,Hadley,Yukhnini,hyukhninido@nyu.edu,1.126,2024,6 Anhalt Avenue,Kansas City,MO,64199
+N80470,Helenelizabeth,Endecott,hendecottdp@nyu.edu,0.338,2023,11727 Blue Bill Park Place,San Francisco,CA,94137
+N80113,Shayna,Sketchley,ssketchleydq@nyu.edu,0.68,2024,6776 Heath Alley,Tulsa,OK,74133
+N43532,Estelle,Stephen,estephendr@nyu.edu,0.381,2026,5 Eastwood Plaza,Rockford,IL,61110
+N66348,Aeriel,Crockatt,acrockattds@nyu.edu,0.905,2024,343 Eagle Crest Terrace,Louisville,KY,40220
+N48739,Hal,Budget,hbudgetdt@nyu.edu,1.045,2025,1 Dorton Street,Fairbanks,AK,99709
+N78692,Teresina,Gooderidge,tgooderidgedu@nyu.edu,0.641,2027,48 Coolidge Center,Lafayette,LA,70505
+N65589,Wenonah,Wardle,wwardledv@nyu.edu,0.689,2025,6 8th Avenue,Raleigh,NC,27605
+N53395,Gaston,Sevier,gsevierdw@nyu.edu,2.189,2024,9 Morningstar Drive,Jamaica,NY,11436
+N63401,Fabien,Kingsnorth,fkingsnorthdx@nyu.edu,0.485,2026,16449 Twin Pines Pass,Providence,RI,02905
+N77698,Alika,Wingate,awingatedy@nyu.edu,3.269,2027,4305 Scott Way,Baltimore,MD,21290
+N87598,Bastian,Kinghorne,bkinghornedz@nyu.edu,0.285,2027,4 South Way,Houston,TX,77293
+N59870,Conn,Dring,cdringe0@nyu.edu,3.634,2024,95 Haas Junction,Glendale,CA,91205
+N66541,Andreas,Speechly,aspeechlye1@nyu.edu,1.661,2024,9968 Mifflin Pass,Fort Worth,TX,76134
+N58211,Ruthie,Gallen,rgallene2@nyu.edu,3.906,2027,38 Florence Avenue,Memphis,TN,38136
+N40007,Olag,Tincknell,otincknelle3@nyu.edu,1.804,2023,91 Heath Street,El Paso,TX,88584
+N61814,Renard,Rickert,rrickerte4@nyu.edu,2.087,2027,502 Roth Circle,Peoria,IL,61640
+N45990,Britte,Maudlin,bmaudline5@nyu.edu,2.847,2026,33 Springs Street,Phoenix,AZ,85045
+N59195,Rosemaria,Fuentes,rfuentese6@nyu.edu,0.316,2025,88 Burning Wood Way,Columbus,OH,43204
+N51096,Gillan,Orys,goryse7@nyu.edu,2.524,2026,8310 Dennis Avenue,Albany,NY,12232
+N78898,Nissa,Tolmie,ntolmiee8@nyu.edu,1.571,2026,1566 International Circle,Lake Worth,FL,33462
+N72519,Dianna,Daber,ddabere9@nyu.edu,0.004,2025,44999 Lake View Hill,Sandy,UT,84093
+N80797,Victoir,Cancellor,vcancellorea@nyu.edu,1.561,2023,65 Bartelt Center,Columbus,OH,43284
+N66761,Lina,Whittleton,lwhittletoneb@nyu.edu,1.062,2026,306 Harper Pass,Portland,OR,97271
+N75285,Cymbre,Drackford,cdrackfordec@nyu.edu,0.282,2025,1 Raven Pass,Houston,TX,77212
+N67485,Avrom,Dawbury,adawburyed@nyu.edu,2.791,2026,32 Corscot Drive,Carlsbad,CA,92013
+N66674,Katha,Coronado,kcoronadoee@nyu.edu,0.465,2026,8837 Northridge Place,Des Moines,IA,50305
+N72500,Farah,Belfelt,fbelfeltef@nyu.edu,1.161,2026,148 Eagle Crest Parkway,Minneapolis,MN,55448
+N44976,Sayres,Toyer,stoyereg@nyu.edu,1.469,2024,83788 Shasta Terrace,Greensboro,NC,27404
+N50815,Hubert,Dictus,hdictuseh@nyu.edu,1.035,2023,8054 Mcguire Point,Pasadena,CA,91103
+N75885,Joshuah,Dumsday,jdumsdayei@nyu.edu,3.407,2024,68 Harper Avenue,Frankfort,KY,40618
+N59997,Tatiania,Swinerd,tswinerdej@nyu.edu,1.18,2027,766 Northland Lane,Newport News,VA,23612
+N61700,Sigmund,McAree,smcareeek@nyu.edu,1.703,2025,1092 Lakeland Street,Orlando,FL,32891
+N73927,Ricardo,Aust,raustel@nyu.edu,3.067,2027,99 Onsgard Trail,Tulsa,OK,74133
+N44012,Patric,Wellwood,pwellwoodem@nyu.edu,0.187,2027,02 Clyde Gallagher Alley,Tyler,TX,75799
+N59960,Gratiana,Yarrall,gyarrallen@nyu.edu,1.617,2024,122 Columbus Crossing,Saint Cloud,MN,56372
+N70865,Pincas,Pifford,ppiffordeo@nyu.edu,0.459,2025,6 Nova Circle,Scranton,PA,18514
+N88676,Eleanore,Fliege,efliegeep@nyu.edu,0.083,2024,35975 Cottonwood Way,West Palm Beach,FL,33411
+N46288,Emmit,Furze,efurzeeq@nyu.edu,3.028,2026,610 Stoughton Pass,Scranton,PA,18505
+N72394,Constantin,Bamforth,cbamforther@nyu.edu,3.144,2023,669 Manley Way,Texarkana,TX,75507
+N62378,Kevyn,Chesson,kchessones@nyu.edu,0.855,2025,377 Elmside Way,El Paso,TX,88530
+N40464,Krystal,Gamlen,kgamlenet@nyu.edu,2.563,2027,14 Westport Park,Arlington,VA,22217
+N45761,Korry,O'Noland,konolandeu@nyu.edu,1.513,2024,3 Hermina Circle,Honolulu,HI,96845
+N45252,Hildagard,Bourges,hbourgesev@nyu.edu,2.399,2026,3 Fieldstone Junction,Tulsa,OK,74156
+N64063,Franzen,Naire,fnaireew@nyu.edu,3.205,2025,88 Ridgeway Parkway,Detroit,MI,48275
+N67702,Ninnette,Segoe,nsegoeex@nyu.edu,3.654,2025,677 Elgar Park,Atlanta,GA,31119
+N79470,Christiano,Picot,cpicotey@nyu.edu,3.015,2026,88 Longview Road,Dallas,TX,75392
+N62643,Valeda,Foxcroft,vfoxcroftez@nyu.edu,2.353,2025,1 Drewry Avenue,Springfield,OH,45505
+N60885,Andie,Ellgood,aellgoodf0@nyu.edu,1.725,2025,3 John Wall Center,Abilene,TX,79699
+N61947,Dukie,Etheredge,detheredgef1@nyu.edu,0.24,2025,09 Grover Junction,Syracuse,NY,13217
+N86845,Alyss,Stroband,astrobandf2@nyu.edu,1.752,2025,8 Rusk Alley,Baltimore,MD,21203
+N53094,Kara,Boness,kbonessf3@nyu.edu,2.353,2023,97 Florence Terrace,Salt Lake City,UT,84152
+N86996,Shina,Tupper,stupperf4@nyu.edu,0.485,2027,678 Sutherland Circle,Seminole,FL,34642
+N39849,Leonhard,Chart,lchartf5@nyu.edu,2.69,2027,00 Cambridge Road,Tucson,AZ,85725
+N61926,Orland,Mulhall,omulhallf6@nyu.edu,0.962,2025,20266 Corscot Center,Phoenix,AZ,85015
+N74042,Floris,Diperaus,fdiperausf7@nyu.edu,2.27,2026,27510 Northwestern Court,New Brunswick,NJ,08922
+N72659,Hale,McGlashan,hmcglashanf8@nyu.edu,3.743,2027,5 North Place,Erie,PA,16522
+N59832,Paten,Lehrian,plehrianf9@nyu.edu,0.621,2026,77093 Harper Place,San Francisco,CA,94126
+N41652,Fred,Donaghy,fdonaghyfa@nyu.edu,2.545,2027,78 Pierstorff Lane,Vancouver,WA,98682
+N63172,Tommy,Brunn,tbrunnfb@nyu.edu,3.707,2023,633 Randy Place,Tuscaloosa,AL,35487
+N85562,Flem,Reekie,freekiefc@nyu.edu,2.84,2026,6764 Holy Cross Junction,Ocala,FL,34474
+N39125,Isadora,Arlet,iarletfd@nyu.edu,2.006,2025,1 Corscot Parkway,San Francisco,CA,94121
+N73120,Dene,Wimmer,dwimmerfe@nyu.edu,3.511,2026,835 Summit Way,Montgomery,AL,36134
+N60777,Arney,Brain,abrainff@nyu.edu,0.703,2026,5581 Kings Lane,Jacksonville,FL,32259
+N43805,Guendolen,Kloisner,gkloisnerfg@nyu.edu,1.389,2025,6 Scoville Center,Flushing,NY,11388
+N48478,Danit,Hillatt,dhillattfh@nyu.edu,1.557,2027,8 Almo Parkway,Brooksville,FL,34605
+N56633,Andris,Vasilchikov,avasilchikovfi@nyu.edu,1.707,2023,66 International Circle,Brooklyn,NY,11241
+N87680,Godfrey,Letessier,gletessierfj@nyu.edu,0.535,2024,643 Comanche Parkway,Van Nuys,CA,91499
+N72033,Larisa,Gullan,lgullanfk@nyu.edu,1.623,2026,0477 Stuart Drive,Fort Myers,FL,33906
+N37676,Giustina,Storm,gstormfl@nyu.edu,0.174,2023,865 Kipling Lane,New York City,NY,10160
+N83968,Page,Dulake,pdulakefm@nyu.edu,3.161,2027,854 Knutson Center,Portland,OR,97206
+N47013,Nolie,Stollsteimer,nstollsteimerfn@nyu.edu,3.947,2025,3 Arizona Park,Lexington,KY,40581
+N40402,Vite,Loveridge,vloveridgefo@nyu.edu,1.719,2023,4635 Upham Pass,Washington,DC,20575
+N78473,Hans,Grout,hgroutfp@nyu.edu,2.144,2024,0 Fremont Crossing,Utica,NY,13505
+N74601,Berry,Flarity,bflarityfq@nyu.edu,0.707,2027,944 Waubesa Pass,Indianapolis,IN,46207
+N84822,Shayne,Piche,spichefr@nyu.edu,0.418,2024,57 Bunting Court,Gainesville,FL,32605
+N73506,Cory,Hudel,chudelfs@nyu.edu,3.642,2026,12421 Rusk Terrace,Sacramento,CA,95838
+N36496,Elvis,Collumbell,ecollumbellft@nyu.edu,2.696,2025,268 Anhalt Plaza,Saint Cloud,MN,56398
+N66446,Freddi,Matschuk,fmatschukfu@nyu.edu,0.168,2026,7 Gateway Drive,Hattiesburg,MS,39404
+N67829,Valina,Canning,vcanningfv@nyu.edu,2.99,2025,3063 Darwin Place,Denver,CO,80249
+N84459,Marni,Veschi,mveschifw@nyu.edu,0.729,2027,097 Carberry Trail,Miami,FL,33147
+N44939,Konrad,Powlesland,kpowleslandfx@nyu.edu,3.288,2027,0 Old Gate Park,Amarillo,TX,79118
+N44546,Amelia,Hysom,ahysomfy@nyu.edu,3.212,2023,6 Grim Circle,Newark,NJ,07195
+N39640,Fidelia,Duerden,fduerdenfz@nyu.edu,1.437,2024,93 Emmet Alley,Syracuse,NY,13217
+N58253,Frederic,Bougen,fbougeng0@nyu.edu,2.687,2027,6 Sundown Crossing,Baton Rouge,LA,70810
+N70076,Abdul,Warr,awarrg1@nyu.edu,1.823,2024,6050 South Trail,Saint Paul,MN,55166
+N46990,Hayley,Backshell,hbackshellg2@nyu.edu,2.166,2024,460 Evergreen Place,Virginia Beach,VA,23454
+N40525,Idalia,Basili,ibasilig3@nyu.edu,2.686,2025,54434 Fairfield Street,Cleveland,OH,44125
+N87769,Keri,Limpenny,klimpennyg4@nyu.edu,1.794,2023,548 Arkansas Point,Port Charlotte,FL,33954
+N83001,Ealasaid,Upstell,eupstellg5@nyu.edu,3.676,2027,73037 Cambridge Parkway,Phoenix,AZ,85083
+N71064,Nathalie,Skeermer,nskeermerg6@nyu.edu,1.253,2025,476 Hagan Junction,Grand Junction,CO,81505
+N58266,Ambrosio,Peltzer,apeltzerg7@nyu.edu,2.68,2024,12175 School Terrace,Provo,UT,84605
+N38331,Felice,Lechelle,flechelleg8@nyu.edu,3.985,2026,65177 Homewood Street,New York City,NY,10160
+N68928,Blinny,Mate,bmateg9@nyu.edu,2.552,2024,13641 Lake View Trail,Jersey City,NJ,07305
+N35868,Mikol,Mathis,mmathisga@nyu.edu,1.011,2025,605 Pierstorff Place,Palm Bay,FL,32909
+N52298,Carlynne,Janaszewski,cjanaszewskigb@nyu.edu,1.436,2026,0929 Laurel Point,Charlotte,NC,28230
+N70843,Wendy,Gorham,wgorhamgc@nyu.edu,3.15,2027,77634 Burrows Drive,Atlanta,GA,31196
+N49703,Elset,Methingam,emethingamgd@nyu.edu,1.052,2024,8 Carey Way,Sioux Falls,SD,57193
+N34917,Margarete,Chanders,mchandersge@nyu.edu,0.282,2025,680 Fair Oaks Junction,Brooklyn,NY,11225
+N62648,Yoshiko,Abbotts,yabbottsgf@nyu.edu,1.649,2026,32 Gateway Hill,Pittsburgh,PA,15266
+N57324,Worth,Darco,wdarcogg@nyu.edu,2.891,2023,013 Florence Road,Bradenton,FL,34210
+N81905,Zeb,O'Howbane,zohowbanegh@nyu.edu,3.067,2023,333 Brickson Park Pass,Cincinnati,OH,45254
+N78606,Layne,Millen,lmillengi@nyu.edu,2.21,2025,9 Golden Leaf Junction,Scottsdale,AZ,85271
+N62937,Timmie,Wimlet,twimletgj@nyu.edu,3.39,2025,42428 Riverside Avenue,Albany,NY,12247
+N42855,Hinda,Streater,hstreatergk@nyu.edu,0.692,2027,22039 Corben Way,Washington,DC,20226
+N71946,Lilas,Naisey,lnaiseygl@nyu.edu,0.606,2027,93587 Kennedy Street,North Hollywood,CA,91606
+N58008,Keven,Keddie,kkeddiegm@nyu.edu,3.134,2024,202 Eggendart Court,Flint,MI,48555
+N54672,Beilul,Ech,bechgn@nyu.edu,1.029,2025,9707 Karstens Parkway,Houston,TX,77293
+N72280,Donavon,Grimm,dgrimmgo@nyu.edu,3.575,2027,66904 Ridgeview Avenue,Sacramento,CA,95833
+N39233,Terri-jo,Huggins,thugginsgp@nyu.edu,1.021,2027,54 Annamark Point,Salt Lake City,UT,84120
+N62944,Cass,Felipe,cfelipegq@nyu.edu,3.972,2027,09 Drewry Court,Tacoma,WA,98411
+N74471,Janot,D'Ambrosi,jdambrosigr@nyu.edu,3.606,2027,784 Merrick Center,Van Nuys,CA,91411
+N63435,Elena,Stanyland,estanylandgs@nyu.edu,2.378,2026,141 Valley Edge Crossing,Shreveport,LA,71137
+N72863,Gherardo,Dykas,gdykasgt@nyu.edu,3.723,2026,49 Atwood Street,San Jose,CA,95128
+N72198,Werner,Candie,wcandiegu@nyu.edu,0.169,2023,3 Prentice Point,Charlotte,NC,28205
+N78337,Casi,Kears,ckearsgv@nyu.edu,0.708,2027,54725 Weeping Birch Avenue,Bronx,NY,10464
+N55873,Nichole,Dowker,ndowkergw@nyu.edu,0.004,2027,6 Summer Ridge Park,Dallas,TX,75260
+N66209,Suzy,Hart,shartgx@nyu.edu,2.299,2023,74 Gulseth Drive,Prescott,AZ,86305
+N87916,Salvidor,Utridge,sutridgegy@nyu.edu,0.788,2024,20 Esker Road,Buffalo,NY,14215
+N84280,Chancey,Bulleyn,cbulleyngz@nyu.edu,3.416,2026,670 Walton Point,Des Moines,IA,50393
+N54220,Baryram,Queenborough,bqueenboroughh0@nyu.edu,3.128,2024,73849 Carey Parkway,Brooklyn,NY,11220
+N44503,Gareth,Hardage,ghardageh1@nyu.edu,0.296,2025,59 Pennsylvania Park,Houston,TX,77266
+N56018,Lurleen,Mitchinson,lmitchinsonh2@nyu.edu,3.87,2024,9 Nobel Way,Northridge,CA,91328
+N78137,Lombard,Shearsby,lshearsbyh3@nyu.edu,0.177,2026,19 New Castle Avenue,Cleveland,OH,44105
+N44499,Micheline,Barense,mbarenseh4@nyu.edu,0.667,2023,7 Crownhardt Hill,Atlanta,GA,30380
+N80586,Catarina,Greggor,cgreggorh5@nyu.edu,0.494,2023,6348 Rusk Plaza,Las Vegas,NV,89120
+N37955,Dario,Keeri,dkeerih6@nyu.edu,3.313,2027,21 Emmet Terrace,Champaign,IL,61825
+N73009,Jessalin,Olivi,jolivih7@nyu.edu,2.22,2023,8 North Parkway,Orlando,FL,32813
+N58728,Kermy,Lalley,klalleyh8@nyu.edu,3.277,2026,7820 Melvin Place,Rockford,IL,61110
+N60559,Ava,Leyninye,aleyninyeh9@nyu.edu,2.297,2023,5596 Longview Court,Dallas,TX,75387
+N36637,Nance,Sustin,nsustinha@nyu.edu,3.474,2025,05 Monica Lane,Salt Lake City,UT,84145
+N60480,Tate,Jeffels,tjeffelshb@nyu.edu,2.08,2026,6146 Pond Lane,Seattle,WA,98175
+N86697,Lacy,Pomfrett,lpomfretthc@nyu.edu,1.942,2027,531 Helena Pass,Fresno,CA,93740
+N46641,Clare,Matuszinski,cmatuszinskihd@nyu.edu,3.557,2027,4359 Hauk Street,Louisville,KY,40266
+N38365,Irina,Brooksbie,ibrooksbiehe@nyu.edu,1.014,2025,7 Green Ridge Center,Tulsa,OK,74156
+N66189,Haze,Wagstaff,hwagstaffhf@nyu.edu,3.254,2025,52 Walton Trail,Tucson,AZ,85715
+N76779,Stanford,Scandroot,sscandroothg@nyu.edu,1.187,2024,395 Rockefeller Point,Falls Church,VA,22047
+N72933,Town,Khadir,tkhadirhh@nyu.edu,0.407,2027,2776 Monterey Point,Reno,NV,89510
+N51168,Malynda,Simnell,msimnellhi@nyu.edu,2.949,2027,7407 Buhler Park,Shawnee Mission,KS,66210
+N57838,Lianna,Seabert,lseaberthj@nyu.edu,1.642,2024,014 Towne Way,Philadelphia,PA,19141
+N84107,Donnell,Gumery,dgumeryhk@nyu.edu,3.018,2025,7 Twin Pines Crossing,Tacoma,WA,98464
+N86549,Elmira,Wagge,ewaggehl@nyu.edu,1.648,2024,14 Village Green Lane,Syracuse,NY,13251
+N79962,Petrina,Osbaldstone,posbaldstonehm@nyu.edu,0.887,2026,6 Debra Pass,Jamaica,NY,11431
+N67140,Jaimie,Slatten,jslattenhn@nyu.edu,2.685,2025,6 Lien Crossing,Boston,MA,02283
+N40993,Warden,Kausche,wkauscheho@nyu.edu,3.44,2024,17651 Northland Way,Washington,DC,20016
+N50831,Vassili,enzley,venzleyhp@nyu.edu,0.646,2023,6 Harper Road,Rockford,IL,61105
+N67273,Ivor,Hewell,ihewellhq@nyu.edu,0.325,2026,31752 Riverside Park,San Diego,CA,92121
+N59740,Pearla,Erb,perbhr@nyu.edu,2.745,2023,6358 Laurel Lane,Pompano Beach,FL,33064
+N48342,Sholom,Sparsholt,ssparsholths@nyu.edu,1.494,2024,571 3rd Lane,Richmond,VA,23228
+N44400,Herby,Simenot,hsimenotht@nyu.edu,3.328,2026,05788 Warner Drive,Fort Wayne,IN,46814
+N59563,Neda,Arnley,narnleyhu@nyu.edu,3.346,2026,28232 Golden Leaf Place,Tampa,FL,33633
+N85986,Leicester,Shorte,lshortehv@nyu.edu,2.652,2026,44 Anhalt Avenue,Fayetteville,NC,28314
+N52799,Elnar,Whitlock,ewhitlockhw@nyu.edu,0.139,2026,0657 Porter Center,San Jose,CA,95160
+N50474,Nicholle,Breed,nbreedhx@nyu.edu,0.419,2024,0837 Victoria Trail,Abilene,TX,79699
+N64078,Onfre,Stent,ostenthy@nyu.edu,0.581,2026,50 Manitowish Avenue,San Jose,CA,95118
+N45608,Glennis,Vallantine,gvallantinehz@nyu.edu,0.447,2023,262 Moulton Plaza,Boston,MA,02114
+N38787,Bobbie,Coady,bcoadyi0@nyu.edu,1.963,2025,8 Elmside Place,Iowa City,IA,52245
+N64331,Malory,McOmish,mmcomishi1@nyu.edu,1.909,2027,024 Derek Plaza,Duluth,GA,30096
+N89282,Peggy,Martinat,pmartinati2@nyu.edu,1.856,2025,9678 Sutteridge Circle,White Plains,NY,10606
+N37394,Berkly,Acock,bacocki3@nyu.edu,1.591,2024,39 Vermont Crossing,Washington,DC,20525
+N87882,Lauren,Buckenhill,lbuckenhilli4@nyu.edu,1.622,2023,90 Tomscot Circle,Dallas,TX,75226
+N35037,Grete,Alyoshin,galyoshini5@nyu.edu,2.201,2026,6 Logan Alley,Santa Ana,CA,92705
+N50857,Guglielmo,Heintze,gheintzei6@nyu.edu,1.383,2025,87248 Marquette Junction,Colorado Springs,CO,80940
+N82519,Hurleigh,Cowcha,hcowchai7@nyu.edu,1.067,2027,200 Montana Alley,Evanston,IL,60208
+N54551,Ermanno,Noon,enooni8@nyu.edu,0.669,2027,2119 Northridge Hill,Humble,TX,77346
+N56701,Janeva,Lowdeane,jlowdeanei9@nyu.edu,3.547,2025,0 Aberg Hill,San Antonio,TX,78240
+N62575,Miguel,Doggrell,mdoggrellia@nyu.edu,0.173,2026,97450 Bellgrove Trail,Scranton,PA,18505
+N85862,Rex,Amorine,ramorineib@nyu.edu,2.433,2023,3 Mayfield Alley,Washington,DC,20430
+N62100,Debbi,Berk,dberkic@nyu.edu,2.258,2023,2 Lakewood Street,Chicago,IL,60609
+N75470,Sammie,Mandry,smandryid@nyu.edu,0.245,2024,74 Dayton Drive,Conroe,TX,77305
+N84050,Corny,Prestidge,cprestidgeie@nyu.edu,2.833,2025,8 Heffernan Place,Aurora,CO,80045
+N75722,Shell,List,slistif@nyu.edu,2.483,2023,0 Johnson Court,Jacksonville,FL,32255
+N72445,Clemmie,Aishford,caishfordig@nyu.edu,3.376,2027,36 Golden Leaf Crossing,Memphis,TN,38168
+N46623,Anny,Jurs,ajursih@nyu.edu,2.96,2025,69 Westport Trail,Wilmington,NC,28405
+N69358,Cathy,Idney,cidneyii@nyu.edu,1.367,2027,9969 Drewry Parkway,Cincinnati,OH,45254
+N68205,Rhett,Bromfield,rbromfieldij@nyu.edu,1.778,2023,57 Nelson Street,Winston Salem,NC,27110
+N62401,Ellerey,Birkmyr,ebirkmyrik@nyu.edu,1.249,2027,0 Dunning Alley,Temple,TX,76505
+N37469,Angel,Flather,aflatheril@nyu.edu,2.829,2025,458 Ryan Court,Reading,PA,19605
+N72403,Cyb,Scrowson,cscrowsonim@nyu.edu,2.806,2024,72148 Schurz Lane,Saint Paul,MN,55188
+N85010,Michel,Stillwell,mstillwellin@nyu.edu,1.922,2023,4310 Petterle Terrace,Providence,RI,02905
+N76456,Brod,Mara,bmaraio@nyu.edu,2.149,2027,90 Russell Pass,Mobile,AL,36610
+N40698,Byram,Zaple,bzapleip@nyu.edu,2.156,2024,27370 Transport Road,Van Nuys,CA,91499
+N40791,Caron,Dwelley,cdwelleyiq@nyu.edu,3.592,2026,3914 Mayer Terrace,Dallas,TX,75372
+N66468,Aurel,Cookes,acookesir@nyu.edu,0.395,2026,6024 Warner Street,Nashville,TN,37250
+N75886,Dunstan,Schole,dscholeis@nyu.edu,0.11,2025,13762 Heath Court,Atlanta,GA,30358
+N64495,Melisande,Felmingham,mfelminghamit@nyu.edu,1.634,2023,4880 Di Loreto Plaza,Harrisburg,PA,17105
+N35966,Marjorie,Chessum,mchessumiu@nyu.edu,0.946,2025,48 Maple Center,Houston,TX,77201
+N87208,Neron,Bricket,nbricketiv@nyu.edu,3.582,2026,6809 Hagan Plaza,Pittsburgh,PA,15279
+N55892,Natala,Mettrick,nmettrickiw@nyu.edu,0.047,2026,9197 Anhalt Parkway,Minneapolis,MN,55428
+N87120,Regan,Redpath,rredpathix@nyu.edu,2.943,2025,95824 Myrtle Lane,Naples,FL,33963
+N64163,Trista,Stagg,tstaggiy@nyu.edu,0.06,2026,84939 Pennsylvania Court,High Point,NC,27264
+N37604,Sidonnie,Curmi,scurmiiz@nyu.edu,2.14,2027,246 Hagan Avenue,Spokane,WA,99210
+N84526,Rog,Alleway,rallewayj0@nyu.edu,0.44,2027,94296 Ridgeview Way,Portland,OR,97286
+N64715,Kleon,Hegarty,khegartyj1@nyu.edu,0.978,2024,63 Annamark Street,Saint Paul,MN,55123
+N53945,Bernete,D'Hooge,bdhoogej2@nyu.edu,0.666,2025,13768 Stephen Court,Great Neck,NY,11024
+N70592,Adolphus,Quantick,aquantickj3@nyu.edu,2.161,2025,70 Sycamore Center,Chicago,IL,60641
+N86122,Melinda,Thorn,mthornj4@nyu.edu,2.625,2026,13 Carioca Drive,Colorado Springs,CO,80930
+N77871,Harlan,Zuan,hzuanj5@nyu.edu,0.925,2025,65 Shopko Alley,West Hartford,CT,06127
+N77211,Gwenneth,Macon,gmaconj6@nyu.edu,2.281,2023,4650 Longview Park,Daytona Beach,FL,32118
+N56626,Ulrikaumeko,Foskew,ufoskewj7@nyu.edu,0.62,2023,00815 Duke Pass,Boston,MA,02114
+N37735,Charyl,Mibourne,cmibournej8@nyu.edu,1.212,2025,044 Goodland Alley,Kalamazoo,MI,49006
+N35869,Ezri,Tetford,etetfordj9@nyu.edu,2.157,2025,0 Porter Road,Philadelphia,PA,19109
+N88180,Derick,Aveline,davelineja@nyu.edu,2.036,2027,2103 Esch Point,Portsmouth,NH,03804
+N86064,Iggie,Nannini,inanninijb@nyu.edu,2.792,2025,54584 Manitowish Drive,Los Angeles,CA,90015
+N74871,Fedora,Fairhall,ffairhalljc@nyu.edu,1.372,2023,37 Northridge Crossing,Buffalo,NY,14205
+N87316,Shirline,Valler,svallerjd@nyu.edu,0.772,2024,20 Mayer Park,Houston,TX,77250
+N84186,Jorey,Kristiansen,jkristiansenje@nyu.edu,0.519,2023,089 Rutledge Trail,Chicago,IL,60663
+N35811,Kesley,Loosley,kloosleyjf@nyu.edu,3.118,2024,1614 Division Plaza,Washington,DC,20566
+N87040,Aridatha,Moston,amostonjg@nyu.edu,1.385,2027,9 Upham Pass,Pomona,CA,91797
+N35479,Glen,Whapples,gwhapplesjh@nyu.edu,0.39,2024,71 Loeprich Crossing,Washington,DC,20420
+N88474,Nat,Camois,ncamoisji@nyu.edu,3.258,2025,54829 Oak Valley Alley,San Antonio,TX,78260
+N64006,Pebrook,Waber,pwaberjj@nyu.edu,2.912,2024,17 Anniversary Hill,Berkeley,CA,94712
+N44597,Doralyn,Jurca,djurcajk@nyu.edu,0.221,2025,37 Comanche Point,Meridian,MS,39305
+N84148,Georgie,Wakeman,gwakemanjl@nyu.edu,2.512,2023,11 Del Sol Trail,Philadelphia,PA,19093
+N79870,Eleonore,Burghill,eburghilljm@nyu.edu,2.076,2023,930 Laurel Terrace,Cincinnati,OH,45208
+N87177,Carmon,Luno,clunojn@nyu.edu,0.033,2026,2533 Spaight Pass,Omaha,NE,68117
+N86570,Fairleigh,Yeomans,fyeomansjo@nyu.edu,2.942,2027,0 Merchant Hill,Buffalo,NY,14263
+N74918,Camel,Figger,cfiggerjp@nyu.edu,3.923,2024,21130 Transport Point,Atlanta,GA,30306
+N40479,Inge,O' Mahony,iomahonyjq@nyu.edu,3.342,2027,6031 Hermina Terrace,Peoria,AZ,85383
+N85432,Catlin,Tarver,ctarverjr@nyu.edu,1.599,2024,79 Clove Plaza,Norfolk,VA,23504
+N39852,Heinrick,Jakucewicz,hjakucewiczjs@nyu.edu,3.14,2026,63 Prairieview Court,Hartford,CT,06105
+N64114,Derek,Jamme,djammejt@nyu.edu,3.9,2024,9935 Memorial Pass,Charlotte,NC,28256
+N57327,Neala,Gurdon,ngurdonju@nyu.edu,3.851,2025,93480 Mallory Way,Glendale,AZ,85305
+N66074,Launce,Tantrum,ltantrumjv@nyu.edu,3.053,2024,18450 Oriole Circle,Lynchburg,VA,24515
+N59777,Marney,Nielson,mnielsonjw@nyu.edu,3.783,2024,65368 Arrowood Avenue,Young America,MN,55557
+N40811,Joan,MacGraith,jmacgraithjx@nyu.edu,1.021,2027,09 Crest Line Circle,Naples,FL,34102
+N74827,Judon,Wride,jwridejy@nyu.edu,2.056,2026,166 Kingsford Center,Houston,TX,77080
+N35820,Jannelle,Schops,jschopsjz@nyu.edu,1.257,2024,5 Farragut Court,Brooklyn,NY,11231
+N71840,Kimbell,Jeremaes,kjeremaesk0@nyu.edu,3.672,2024,15 Crescent Oaks Trail,Laurel,MD,20709
+N44190,Isis,Lorente,ilorentek1@nyu.edu,3.55,2027,4 Lakewood Crossing,Peoria,IL,61656
+N75310,Gregory,Habbershon,ghabbershonk2@nyu.edu,2.601,2027,362 Gerald Road,Salt Lake City,UT,84170
+N89062,Kyla,Onyon,konyonk3@nyu.edu,1.183,2026,4 Crowley Circle,Dayton,OH,45426
+N35842,Vladamir,Yuryshev,vyuryshevk4@nyu.edu,3.255,2026,5 Loftsgordon Lane,Hartford,CT,06145
+N64594,Heida,Crummy,hcrummyk5@nyu.edu,1.237,2026,67145 Haas Place,San Mateo,CA,94405
+N66287,Denise,Naile,dnailek6@nyu.edu,1.332,2023,629 Calypso Avenue,Corpus Christi,TX,78470
+N79437,Garrard,Sydenham,gsydenhamk7@nyu.edu,0.972,2027,77031 Waxwing Circle,Albany,NY,12227
+N71772,Elizabeth,Sandland,esandlandk8@nyu.edu,3.517,2026,1274 Maple Wood Court,Topeka,KS,66622
+N74185,Jemmy,Greenman,jgreenmank9@nyu.edu,1.654,2025,332 Dennis Junction,Denver,CO,80299
+N80364,Elayne,Krzyzanowski,ekrzyzanowskika@nyu.edu,3.983,2024,57151 Carioca Lane,Minneapolis,MN,55480
+N63626,Gabriela,Garry,ggarrykb@nyu.edu,1.404,2024,37768 Westridge Road,Houston,TX,77212
+N53970,Pearl,Richmond,prichmondkc@nyu.edu,0.688,2027,12 Bartelt Hill,Des Moines,IA,50936
+N85256,Flore,Penhall,fpenhallkd@nyu.edu,3.606,2025,4983 Blaine Trail,Albuquerque,NM,87180
+N59888,Toinette,Murdie,tmurdieke@nyu.edu,2.503,2025,842 Kedzie Drive,New York City,NY,10280
+N77631,Torey,Dismore,tdismorekf@nyu.edu,3.021,2026,14095 Oneill Alley,Lubbock,TX,79491
+N88316,Benoite,Tickner,bticknerkg@nyu.edu,0.351,2023,89283 Rutledge Junction,Hartford,CT,06183
+N77967,Lazaro,Sheppard,lsheppardkh@nyu.edu,2.38,2026,1 Sunnyside Center,New York City,NY,10120
+N47495,Hally,Serchwell,hserchwellki@nyu.edu,2.788,2027,25538 Calypso Junction,Mesquite,TX,75185
+N51747,Isacco,Srutton,isruttonkj@nyu.edu,0.499,2023,700 Memorial Way,Juneau,AK,99812
+N89209,Amalie,Parkes,aparkeskk@nyu.edu,2.894,2025,9 Clarendon Park,Santa Ana,CA,92725
+N72689,Yolanthe,Prestwich,yprestwichkl@nyu.edu,3.306,2027,53 Harbort Drive,Fresno,CA,93773
+N43547,Amalita,Thorsby,athorsbykm@nyu.edu,2.488,2024,88130 Welch Pass,Mesa,AZ,85215
+N75314,Margareta,Korda,mkordakn@nyu.edu,1.099,2024,35700 Gateway Way,Brooklyn,NY,11225
+N38595,Alene,Towey,atoweyko@nyu.edu,0.089,2025,03711 Daystar Pass,Gainesville,GA,30506
+N57088,Alayne,Pirazzi,apirazzikp@nyu.edu,1.953,2027,8041 Fieldstone Street,Miami,FL,33175
+N70880,Wallis,Halliberton,whallibertonkq@nyu.edu,0.457,2027,60683 Marquette Park,Memphis,TN,38197
+N39038,Kent,Duckitt,kduckittkr@nyu.edu,0.924,2027,1 East Hill,Philadelphia,PA,19141
+N78237,Steffen,Silverton,ssilvertonks@nyu.edu,2.942,2024,5 Becker Avenue,Fort Myers,FL,33906
+N82492,Jesus,Ox,joxkt@nyu.edu,1.974,2023,2033 Paget Center,New York City,NY,10175
+N63155,Darrel,Langhor,dlanghorku@nyu.edu,2.52,2025,73 Vera Place,Seattle,WA,98127
+N35026,Karoly,Earngy,kearngykv@nyu.edu,1.906,2027,55 Randy Lane,Fullerton,CA,92640
+N71319,Kylie,Humbatch,khumbatchkw@nyu.edu,0.564,2027,5 Hintze Hill,Mobile,AL,36616
+N58814,Dominica,Mease,dmeasekx@nyu.edu,0.966,2025,05662 Crownhardt Street,Atlanta,GA,30386
+N62441,Florencia,Walker,fwalkerky@nyu.edu,2.281,2025,25098 Shopko Terrace,Omaha,NE,68105
+N59608,Nana,Skydall,nskydallkz@nyu.edu,3.914,2024,2 Waubesa Point,Miami,FL,33261
+N66369,Shelden,Jeayes,sjeayesl0@nyu.edu,1.28,2025,3 Rigney Place,Knoxville,TN,37919
+N56276,Alyosha,Dibson,adibsonl1@nyu.edu,2.999,2024,99920 Donald Center,Charlotte,NC,28215
+N87663,Collie,McGaughey,cmcgaugheyl2@nyu.edu,0.5,2026,54012 Miller Park,Naperville,IL,60567
+N54626,Skell,Parfett,sparfettl3@nyu.edu,2.311,2024,073 Myrtle Crossing,Allentown,PA,18105
+N81278,Linoel,O' Mulderrig,lomulderrigl4@nyu.edu,0.026,2024,23 Summerview Center,Brooklyn,NY,11210
+N66337,Pavla,Lynde,plyndel5@nyu.edu,0.323,2024,5 Delladonna Court,San Jose,CA,95118
+N62431,Nero,Croot,ncrootl6@nyu.edu,0.893,2027,318 Johnson Circle,Bloomington,IN,47405
+N65829,Tiffanie,Mixture,tmixturel7@nyu.edu,3.861,2024,7571 Claremont Park,Fort Smith,AR,72905
+N86577,Bonni,Macek,bmacekl8@nyu.edu,3.372,2027,706 Spaight Court,Milwaukee,WI,53225
+N79546,Edan,Bladen,ebladenl9@nyu.edu,1.937,2023,1094 Mayfield Parkway,Oklahoma City,OK,73157
+N75759,Lana,Dietzler,ldietzlerla@nyu.edu,2.984,2023,11522 Waywood Terrace,Dallas,TX,75397
+N74932,Wolf,Totman,wtotmanlb@nyu.edu,3.515,2024,7588 Butternut Street,Miami,FL,33164
+N59187,Alphonse,Da Costa,adacostalc@nyu.edu,0.318,2023,89 Eastwood Way,Philadelphia,PA,19196
+N89389,Ileane,Bramah,ibramahld@nyu.edu,0.815,2023,31144 Fordem Place,Philadelphia,PA,19104
+N65583,Guss,Biever,gbieverle@nyu.edu,1.672,2027,55573 Corry Drive,Springfield,MO,65810
+N49847,Doy,Francescoccio,dfrancescocciolf@nyu.edu,2.98,2025,50 Eastwood Hill,Louisville,KY,40215
+N61111,Ilene,Mundford,imundfordlg@nyu.edu,0.489,2027,0783 Texas Plaza,Harrisburg,PA,17121
+N52434,Robinet,Rollins,rrollinslh@nyu.edu,1.491,2026,2270 Moose Pass,Marietta,GA,30066
+N81137,Zack,Ogg,zoggli@nyu.edu,3.869,2026,93 Bartelt Road,El Paso,TX,79934
+N52751,Twila,Daye,tdayelj@nyu.edu,1.359,2026,4 Reinke Street,Philadelphia,PA,19160
+N68820,Candace,Caff,ccafflk@nyu.edu,3.439,2025,9 Farragut Hill,Cincinnati,OH,45233
+N71545,Wilone,Habbergham,whabberghamll@nyu.edu,0.995,2027,45913 Northfield Lane,Newport Beach,CA,92662
+N85524,Yevette,Lieb,ylieblm@nyu.edu,3.909,2023,108 Almo Terrace,Bloomington,IL,61709
+N80935,Debera,Geddes,dgeddesln@nyu.edu,2.163,2026,20716 Monument Trail,Jackson,MS,39204
+N61241,Cybill,Lampart,clampartlo@nyu.edu,3.267,2025,0142 Anhalt Way,Washington,DC,20525
+N44604,Johnette,Mordanti,jmordantilp@nyu.edu,3.133,2027,2961 Hooker Way,San Bernardino,CA,92415
+N60927,Lacee,Hierro,lhierrolq@nyu.edu,0.69,2027,11 Vera Court,Dulles,VA,20189
+N58146,Gilly,Spini,gspinilr@nyu.edu,0.327,2024,03567 John Wall Drive,San Bernardino,CA,92410
+N71465,Cary,Manshaw,cmanshawls@nyu.edu,2.355,2024,84 Oriole Crossing,Houston,TX,77060
+N68263,Wilone,Cleever,wcleeverlt@nyu.edu,2.957,2024,693 Emmet Alley,Chattanooga,TN,37450
+N48787,Susanetta,Port,sportlu@nyu.edu,0.177,2027,15 Crescent Oaks Way,Washington,DC,20425
+N35696,Berk,Blaxland,bblaxlandlv@nyu.edu,1.054,2023,479 Nelson Junction,Sioux Falls,SD,57193
+N84262,Rebeka,Jerschke,rjerschkelw@nyu.edu,0.049,2024,1974 Pankratz Street,Pittsburgh,PA,15220
+N39500,Weider,Keywood,wkeywoodlx@nyu.edu,2.379,2027,4785 Dakota Park,Las Vegas,NV,89130
+N51908,Loleta,Janata,ljanataly@nyu.edu,3.975,2025,38 Mallory Terrace,Greensboro,NC,27425
+N61547,Beltran,Ellph,bellphlz@nyu.edu,3.426,2024,894 Fordem Lane,Boynton Beach,FL,33436
+N63490,Bridie,Philimore,bphilimorem0@nyu.edu,0.548,2026,29 Debs Way,Baltimore,MD,21239
+N61012,Denni,Hofer,dhoferm1@nyu.edu,3.621,2027,4069 Shelley Court,Hollywood,FL,33023
+N59389,Genovera,Maryan,gmaryanm2@nyu.edu,1.124,2024,833 Arizona Street,Pinellas Park,FL,34665
+N47985,Juli,Morrish,jmorrishm3@nyu.edu,2.856,2023,98059 Weeping Birch Drive,New Orleans,LA,70124
+N41610,Conroy,Clerke,cclerkem4@nyu.edu,0.176,2023,47 Waywood Crossing,Portland,OR,97286
+N86758,Alic,Poate,apoatem5@nyu.edu,3.2,2023,65 Corben Junction,San Jose,CA,95133
+N85587,Cyrill,Ketts,ckettsm6@nyu.edu,3.826,2027,76 Kinsman Street,Bonita Springs,FL,34135
+N72982,Biron,Taggerty,btaggertym7@nyu.edu,1.951,2027,486 Lyons Junction,El Paso,TX,88584
+N87616,Basil,Gammidge,bgammidgem8@nyu.edu,2.212,2024,8 Bay Crossing,Omaha,NE,68164
+N54038,Hope,Hurton,hhurtonm9@nyu.edu,0.516,2027,21 Petterle Center,Long Beach,CA,90831
+N41592,Bertha,Dury,bduryma@nyu.edu,3.841,2024,967 Declaration Point,Los Angeles,CA,90010
+N83171,Nicolai,Eagling,neaglingmb@nyu.edu,2.558,2023,98 Butternut Junction,Shawnee Mission,KS,66205
+N66619,Gerrilee,Jendrusch,gjendruschmc@nyu.edu,0.241,2024,3406 Oxford Circle,Norman,OK,73071
+N73804,Ros,Enterle,renterlemd@nyu.edu,1.037,2024,1 Doe Crossing Circle,Baton Rouge,LA,70883
+N36008,Alan,Foggo,afoggome@nyu.edu,1.909,2023,15118 Ilene Junction,Saint Louis,MO,63167
+N67655,Jim,Woolner,jwoolnermf@nyu.edu,0.974,2026,12583 Sunnyside Hill,Boston,MA,02109
+N40206,Cally,Cullity,ccullitymg@nyu.edu,0.685,2024,2 Melby Center,Albuquerque,NM,87140
+N36583,Genvieve,Stanistreet,gstanistreetmh@nyu.edu,0.6,2024,51842 Lawn Court,Tucson,AZ,85725
+N65909,Darcy,Hamilton,dhamiltonmi@nyu.edu,0.598,2023,20897 Washington Place,Chattanooga,TN,37416
+N66408,Siouxie,Pape,spapemj@nyu.edu,2.847,2023,46217 Golf View Drive,New York City,NY,10039
+N54026,Jere,Aleksic,jaleksicmk@nyu.edu,2.887,2024,2 Lukken Place,Washington,DC,20392
+N66667,Hannie,Van Bruggen,hvanbruggenml@nyu.edu,1.67,2023,376 Maywood Way,Colorado Springs,CO,80920
+N85718,Aveline,Davion,adavionmm@nyu.edu,0.684,2027,1252 Sugar Park,Atlanta,GA,30368
+N49922,Theodoric,Erwin,terwinmn@nyu.edu,1.929,2026,5 Tony Plaza,Tyler,TX,75710
+N51731,Jinny,Kennan,jkennanmo@nyu.edu,0.493,2023,45 Westport Circle,Kansas City,MO,64149
+N66739,Ricki,Speir,rspeirmp@nyu.edu,1.364,2024,34595 Bayside Way,Boston,MA,02119
+N64629,Virginie,Mordy,vmordymq@nyu.edu,1.056,2026,02 Wayridge Lane,Lansing,MI,48930
+N67734,Nikki,Kenninghan,nkenninghanmr@nyu.edu,3.881,2025,7 Prentice Way,Des Moines,IA,50305
+N56191,Deerdre,Sparshutt,dsparshuttms@nyu.edu,3.605,2027,24 Prentice Point,Topeka,KS,66611
+N84219,Torey,Oubridge,toubridgemt@nyu.edu,2.094,2024,2993 Chinook Hill,Kansas City,MO,64190
+N65488,Vladimir,Stenson,vstensonmu@nyu.edu,1.718,2024,1967 Scott Plaza,Long Beach,CA,90847
+N74637,Karlee,Vasilchenko,kvasilchenkomv@nyu.edu,0.922,2025,34159 Ronald Regan Center,Sandy,UT,84093
+N70317,Garreth,Colebrook,gcolebrookmw@nyu.edu,3.754,2025,00 Continental Parkway,Toledo,OH,43610
+N59321,Waldo,Timmermann,wtimmermannmx@nyu.edu,3.157,2027,106 Delaware Drive,Mobile,AL,36628
+N65550,Evy,Romagnosi,eromagnosimy@nyu.edu,0.008,2024,016 Mayer Drive,Pinellas Park,FL,34665
+N75765,Karisa,Bellay,kbellaymz@nyu.edu,3.057,2024,6624 Grasskamp Park,Miami,FL,33190
+N84055,Fidelio,Klambt,fklambtn0@nyu.edu,1.249,2027,44364 Old Shore Hill,New York City,NY,10110
+N86259,Melany,Huffa,mhuffan1@nyu.edu,3.213,2025,2202 Annamark Alley,Pittsburgh,PA,15230
+N74586,Doloritas,Antczak,dantczakn2@nyu.edu,0.092,2025,73 Maryland Parkway,Las Vegas,NV,89135
+N84109,Cecilla,Bertl,cbertln3@nyu.edu,1.121,2027,6943 Dawn Plaza,Pittsburgh,PA,15205
+N63201,Allie,Betton,abettonn4@nyu.edu,3.461,2023,80401 Schmedeman Place,Phoenix,AZ,85045
+N35825,Susanna,Veivers,sveiversn5@nyu.edu,3.725,2026,9 Gateway Drive,Akron,OH,44315
+N71681,Cherri,Masselin,cmasselinn6@nyu.edu,0.819,2026,374 Ilene Alley,Brooklyn,NY,11241
+N73873,Patsy,Long,plongn7@nyu.edu,2.33,2024,31 Orin Point,Trenton,NJ,08650
+N51523,Renee,Cordel,rcordeln8@nyu.edu,2.403,2025,5713 Merrick Hill,Fort Wayne,IN,46896
+N82033,Dewey,Segot,dsegotn9@nyu.edu,3.328,2026,29 Dunning Pass,Colorado Springs,CO,80930
+N34592,Keary,Pickaver,kpickaverna@nyu.edu,1.869,2023,0 Haas Crossing,Carson City,NV,89714
+N84505,Ianthe,Fehners,ifehnersnb@nyu.edu,3.243,2026,7 Welch Point,Bakersfield,CA,93381
+N83867,Putnam,Bearham,pbearhamnc@nyu.edu,1.074,2024,8 Dexter Trail,Kansas City,MO,64125
+N73659,Dee dee,Oldridge,doldridgend@nyu.edu,0.209,2027,0446 4th Trail,Oklahoma City,OK,73157
+N79179,Querida,Jandl,qjandlne@nyu.edu,0.615,2024,178 Linden Place,Sacramento,CA,94297
+N82742,Connie,Briscoe,cbriscoenf@nyu.edu,1.99,2026,2 Straubel Way,San Diego,CA,92196
+N83201,Rozele,Stearns,rstearnsng@nyu.edu,2.814,2026,945 Forster Way,Athens,GA,30610
+N81207,Blondelle,Petrelli,bpetrellinh@nyu.edu,3.867,2025,05283 Bowman Circle,Rochester,NY,14652
+N83921,Ryan,Cornely,rcornelyni@nyu.edu,0.809,2025,634 Becker Road,Los Angeles,CA,90060
+N83632,Temp,Scrymgeour,tscrymgeournj@nyu.edu,2.617,2025,06 Dixon Court,Abilene,TX,79699
+N56437,Dyanna,Somerville,dsomervillenk@nyu.edu,3.157,2026,732 Darwin Alley,El Paso,TX,79989
+N45834,Marietta,Gleadhell,mgleadhellnl@nyu.edu,0.112,2025,0 Monument Pass,Canton,OH,44720
+N78401,Albina,Elvey,aelveynm@nyu.edu,1.84,2023,01694 Surrey Drive,Santa Monica,CA,90405
+N86351,Hank,Cleverly,hcleverlynn@nyu.edu,0.264,2023,27 Pawling Terrace,Washington,DC,20508
+N74011,Brooke,Weekes,bweekesno@nyu.edu,1.364,2027,07650 Arkansas Street,Atlanta,GA,30368
+N56800,Stephani,Reneke,srenekenp@nyu.edu,1.986,2026,722 Village Trail,Shreveport,LA,71130
+N39708,Artair,O' Mahony,aomahonynq@nyu.edu,1.132,2025,92574 Lillian Plaza,Sioux Falls,SD,57198
+N70472,Lilly,Bentje,lbentjenr@nyu.edu,1.208,2025,01 Weeping Birch Trail,Greensboro,NC,27455
+N72320,Aleta,Mault,amaultns@nyu.edu,0.013,2023,3 Anzinger Crossing,West Palm Beach,FL,33405
+N46190,Forester,Giacubbo,fgiacubbont@nyu.edu,2.791,2023,8 Texas Avenue,Knoxville,TN,37924
+N46205,Abba,Dottrell,adottrellnu@nyu.edu,0.231,2024,24141 Village Green Hill,Syracuse,NY,13251
+N56301,Rainer,Featherstone,rfeatherstonenv@nyu.edu,1.962,2027,137 Thackeray Trail,Newark,DE,19725
+N76893,Brennan,Thamelt,bthameltnw@nyu.edu,3.533,2024,25656 Manitowish Avenue,Fullerton,CA,92640
+N61460,Marti,Moscrop,mmoscropnx@nyu.edu,1.625,2027,79 Walton Trail,Corpus Christi,TX,78415
+N37601,Merrill,Blanpein,mblanpeinny@nyu.edu,2.57,2027,757 Fuller Hill,San Diego,CA,92105
+N89026,Rozalie,Gueny,rguenynz@nyu.edu,3.293,2025,993 Kensington Hill,Lake Worth,FL,33467
+N73190,Minetta,Rechert,mrecherto0@nyu.edu,3.76,2024,82 Chive Hill,Chicago,IL,60646
+N78678,Ardeen,Pigford,apigfordo1@nyu.edu,0.991,2025,59 Tennessee Circle,Detroit,MI,48295
+N78768,Rustin,Glenister,rglenistero2@nyu.edu,3.639,2024,5731 Bellgrove Center,Beaumont,TX,77713
+N58753,Sanson,Williams,swilliamso3@nyu.edu,0.197,2027,26398 Anthes Plaza,Colorado Springs,CO,80951
+N70994,Nikolos,Dominichelli,ndominichellio4@nyu.edu,3.447,2027,8 Saint Paul Crossing,Cambridge,MA,02142
+N54187,Nancee,Micheu,nmicheuo5@nyu.edu,1.737,2025,13939 Golf View Trail,Salem,OR,97312
+N81160,Paddie,Korneev,pkorneevo6@nyu.edu,2.935,2027,089 Tomscot Road,Springfield,IL,62711
+N35792,Jed,Casolla,jcasollao7@nyu.edu,2.374,2025,5517 Nancy Road,Humble,TX,77346
+N75401,Filmore,Nansom,fnansomo8@nyu.edu,0.619,2025,176 Forest Run Plaza,Boise,ID,83727
+N82089,Dwight,Beal,dbealo9@nyu.edu,3.688,2026,8833 Loftsgordon Parkway,Stockton,CA,95219
+N65316,Hermy,Tanzig,htanzigoa@nyu.edu,0.463,2023,652 Nancy Avenue,Aiken,SC,29805
+N37581,Sherm,Schirach,sschirachob@nyu.edu,0.533,2024,3 Kropf Drive,Raleigh,NC,27621
+N79650,Bethina,Sharphouse,bsharphouseoc@nyu.edu,2.037,2027,2383 Sauthoff Pass,Buffalo,NY,14205
+N38035,Winslow,Hofton,whoftonod@nyu.edu,2.72,2023,81204 Lien Lane,Tampa,FL,33661
+N86871,Robina,Brand,rbrandoe@nyu.edu,3.284,2026,76652 Claremont Point,Wichita,KS,67260
+N49384,Gennifer,Bulmer,gbulmerof@nyu.edu,0.078,2024,95609 Bowman Way,Syracuse,NY,13251
+N44921,Margalo,Eilhersen,meilhersenog@nyu.edu,0.368,2025,0054 School Road,Rochester,MN,55905
+N34820,Delly,Drissell,ddrisselloh@nyu.edu,1.306,2023,97061 Moose Junction,San Jose,CA,95133
+N89192,Jethro,Bayford,jbayfordoi@nyu.edu,3.091,2023,52 Clarendon Center,Little Rock,AR,72204
+N60712,Dudley,Tarling,dtarlingoj@nyu.edu,0.346,2025,2 Dahle Hill,Austin,TX,78759
+N88910,Robbie,Garcia,rgarciaok@nyu.edu,2.812,2026,63022 Ilene Circle,Riverside,CA,92505
+N49793,Stephen,Ash,sashol@nyu.edu,2.456,2026,2 Kim Way,Miami,FL,33169
+N67323,Waylin,Dreng,wdrengom@nyu.edu,0.46,2026,49563 Haas Road,Tulsa,OK,74116
+N59860,Adlai,Busst,abusston@nyu.edu,2.102,2024,7 Trailsway Circle,Greensboro,NC,27425
+N71530,Nellie,Gamet,ngametoo@nyu.edu,2.83,2025,83984 Walton Parkway,Charlotte,NC,28278
+N52747,Madlin,Sloley,msloleyop@nyu.edu,3.681,2027,27486 Bayside Street,Waltham,MA,02453
+N64700,Neille,Friday,nfridayoq@nyu.edu,1.678,2024,53246 Atwood Junction,Falls Church,VA,22047
+N50760,Astrid,Ferrolli,aferrollior@nyu.edu,2.017,2027,80 Rutledge Way,Newark,NJ,07112
+N71949,Thatch,Wikey,twikeyos@nyu.edu,0.112,2024,33 Arapahoe Circle,Brooklyn,NY,11247
+N37890,Megen,Ducket,mducketot@nyu.edu,2.962,2024,43 Gale Lane,Albany,NY,12242
+N74934,Lyn,MacEvilly,lmacevillyou@nyu.edu,0.567,2025,0325 Onsgard Terrace,Grand Rapids,MI,49505
+N64868,Marge,Proudler,mproudlerov@nyu.edu,3.87,2026,8 Washington Junction,Austin,TX,78732
+N35329,Christan,Birnie,cbirnieow@nyu.edu,3.527,2026,7516 Lotheville Circle,Fresno,CA,93773
+N39879,Kimberli,Stevens,kstevensox@nyu.edu,1.819,2024,6198 Mosinee Place,Harrisburg,PA,17110
+N53133,Dylan,Rolland,drollandoy@nyu.edu,2.698,2024,57 Iowa Road,Staten Island,NY,10310
+N81090,Margy,Cottem,mcottemoz@nyu.edu,0.186,2027,39128 Elgar Alley,Glendale,CA,91210
+N47211,Jillene,Deveral,jdeveralp0@nyu.edu,2.562,2023,8 Eliot Alley,Columbus,OH,43210
+N60221,Terry,Barnewell,tbarnewellp1@nyu.edu,3.347,2025,43 Springs Street,Los Angeles,CA,90094
+N57281,Alvinia,MacArthur,amacarthurp2@nyu.edu,0.029,2026,7572 Anzinger Center,New Brunswick,NJ,08922
+N54327,Sydelle,Richichi,srichichip3@nyu.edu,3.057,2026,780 Weeping Birch Alley,Kansas City,MO,64193
+N36435,Genni,Moorcroft,gmoorcroftp4@nyu.edu,3.524,2026,8 Darwin Park,Albuquerque,NM,87201
+N68627,Micah,Enos,menosp5@nyu.edu,2.484,2026,888 Forest Run Point,New York City,NY,10090
+N77873,Maggie,Cannaway,mcannawayp6@nyu.edu,1.253,2027,3908 Spaight Drive,Portland,OR,97229
+N41001,Irv,Turbefield,iturbefieldp7@nyu.edu,3.187,2023,3 Londonderry Place,Concord,CA,94522
+N40463,Mignonne,Rann,mrannp8@nyu.edu,2.093,2024,490 Washington Alley,Washington,DC,20057
+N49630,Karita,Shawel,kshawelp9@nyu.edu,3.975,2025,2 Twin Pines Junction,Columbus,GA,31904
+N80470,Emmeline,Brandon,ebrandonpa@nyu.edu,2.895,2027,77936 Forest Circle,Roanoke,VA,24034
+N36363,Tobin,Kynoch,tkynochpb@nyu.edu,3.679,2024,70175 Loeprich Place,Bronx,NY,10464
+N56392,Grace,Wolfer,gwolferpc@nyu.edu,1.184,2027,48 Laurel Pass,Huntington,WV,25716
+N72235,Curry,Mockford,cmockfordpd@nyu.edu,2.941,2026,1 Laurel Drive,Springfield,MA,01105
+N59257,Doy,Tumbridge,dtumbridgepe@nyu.edu,1.754,2024,4 Oxford Park,Dayton,OH,45432
+N58088,Anatola,Shackleford,ashacklefordpf@nyu.edu,1.632,2027,29614 Northview Court,Huntsville,AL,35810
+N68439,Kale,Sawday,ksawdaypg@nyu.edu,3.062,2026,6327 Mccormick Street,Stockton,CA,95298
+N86687,Ulrike,Kingham,ukinghamph@nyu.edu,3.315,2026,44819 Stephen Crossing,Orlando,FL,32813
+N82451,Marcello,Stower,mstowerpi@nyu.edu,2.377,2025,7403 Farmco Lane,Cleveland,OH,44177
+N57450,Hillary,Enderby,henderbypj@nyu.edu,2.346,2027,929 Harbort Road,Port Saint Lucie,FL,34985
+N53061,Reuven,Lammin,rlamminpk@nyu.edu,3.32,2025,1364 Helena Avenue,Amarillo,TX,79182
+N45441,Abel,Isard,aisardpl@nyu.edu,2.277,2027,7 Hagan Crossing,South Lake Tahoe,CA,96154
+N35985,Alexis,Pitrelli,apitrellipm@nyu.edu,0.864,2026,09609 Washington Park,Philadelphia,PA,19115
+N68510,Fletch,Mournian,fmournianpn@nyu.edu,2.791,2026,69 Florence Point,Fort Wayne,IN,46857
+N78342,Gordon,Fifoot,gfifootpo@nyu.edu,0.667,2025,05783 Meadow Valley Plaza,Lakeland,FL,33811
+N86071,Barrie,Kevis,bkevispp@nyu.edu,0.171,2023,6107 Carberry Hill,Ventura,CA,93005
+N68716,Brit,Skully,bskullypq@nyu.edu,1.847,2023,832 Michigan Terrace,Pittsburgh,PA,15215
+N80100,Maureene,Tirte,mtirtepr@nyu.edu,0.165,2026,860 Swallow Trail,Atlanta,GA,31136
+N35375,Bevin,Vardey,bvardeyps@nyu.edu,0.667,2025,96 Mccormick Place,Athens,GA,30610
+N58931,Bearnard,Hull,bhullpt@nyu.edu,2.279,2027,507 School Avenue,Omaha,NE,68144
+N63901,Waly,Chater,wchaterpu@nyu.edu,2.196,2023,015 Oak Valley Road,Decatur,IL,62525
+N59071,Gaston,Leel,gleelpv@nyu.edu,1.773,2026,9 Red Cloud Avenue,Richmond,VA,23293
+N71199,Elbertina,Threadgold,ethreadgoldpw@nyu.edu,3.266,2026,3 Russell Point,Austin,TX,78783
+N42157,Hermina,Dressel,hdresselpx@nyu.edu,0.673,2026,14 Randy Crossing,Tucson,AZ,85754
+N39496,Lionel,Bilbey,lbilbeypy@nyu.edu,3.987,2023,75374 Bayside Way,Newark,DE,19725
+N55341,Jeanie,Tomkys,jtomkyspz@nyu.edu,3.789,2026,93066 Golf Course Park,Portland,ME,04109
+N70837,Ermina,Routh,erouthq0@nyu.edu,2.039,2027,1117 Swallow Lane,San Antonio,TX,78220
+N47281,Eldridge,Woffenden,ewoffendenq1@nyu.edu,2.473,2026,806 Blackbird Avenue,Hartford,CT,06160
+N54274,Cherida,Prodrick,cprodrickq2@nyu.edu,1.542,2024,6 American Ash Trail,Long Beach,CA,90840
+N49340,Lay,Donoghue,ldonoghueq3@nyu.edu,0.495,2026,13855 Butterfield Drive,Irvine,CA,92619
+N54952,Phaedra,Willarton,pwillartonq4@nyu.edu,0.675,2027,43437 Amoth Terrace,Tampa,FL,33605
+N40991,Linet,Squire,lsquireq5@nyu.edu,0.672,2025,8 6th Court,Omaha,NE,68105
+N61420,Jessi,Karchewski,jkarchewskiq6@nyu.edu,1.951,2026,6931 Ronald Regan Hill,Minneapolis,MN,55458
+N61091,Latia,Inseal,linsealq7@nyu.edu,1.099,2024,09963 Oxford Crossing,New York City,NY,10090
+N55246,Emilee,Grindley,egrindleyq8@nyu.edu,1.652,2026,5327 Crescent Oaks Court,Tampa,FL,33661
+N58897,Hershel,Fenech,hfenechq9@nyu.edu,3.039,2023,3 Hazelcrest Lane,Montgomery,AL,36177
+N83922,Emanuele,Dodwell,edodwellqa@nyu.edu,0.889,2027,7 Briar Crest Court,Bethlehem,PA,18018
+N53353,Rebeca,Cremin,rcreminqb@nyu.edu,2.014,2025,5 Express Hill,Tampa,FL,33661
+N62329,Jules,Worrell,jworrellqc@nyu.edu,3.07,2025,405 Ryan Junction,Oakland,CA,94627
+N77208,Artus,Leipelt,aleipeltqd@nyu.edu,2.184,2027,1500 3rd Hill,Naperville,IL,60567
+N65199,Florentia,Lettley,flettleyqe@nyu.edu,2.151,2027,23649 Springview Way,Orange,CA,92668
+N80091,Dwain,Ashingden,dashingdenqf@nyu.edu,0.594,2025,46 Crowley Point,San Bernardino,CA,92415
+N43823,Horten,Greber,hgreberqg@nyu.edu,1.617,2027,16 Iowa Park,Tampa,FL,33633
+N76479,Otha,Pendre,opendreqh@nyu.edu,1.21,2025,11252 Hagan Center,Dayton,OH,45414
+N71244,Mattias,Rafe,mrafeqi@nyu.edu,2.923,2027,90 Stuart Road,Jackson,MS,39236
+N83443,Helenelizabeth,Overlow,hoverlowqj@nyu.edu,2.845,2023,25274 Magdeline Plaza,Spartanburg,SC,29305
+N48070,Margarethe,Nisby,mnisbyqk@nyu.edu,0.461,2026,469 Rowland Circle,Rockford,IL,61105
+N44860,Rockie,Tidder,rtidderql@nyu.edu,2.55,2023,0 Surrey Terrace,West Palm Beach,FL,33411
+N72521,Benjy,Pead,bpeadqm@nyu.edu,2.246,2023,0091 3rd Pass,Saint Paul,MN,55103
+N50618,Jinny,Lesaunier,jlesaunierqn@nyu.edu,2.608,2023,40165 Bartillon Avenue,Oakland,CA,94660
+N54961,Cammie,Corneil,ccorneilqo@nyu.edu,1.165,2026,9 Haas Circle,Washington,DC,20599
+N83152,Onofredo,Orrock,oorrockqp@nyu.edu,0.547,2024,258 Sachtjen Junction,Austin,TX,78769
+N87927,Sauveur,Vlasyuk,svlasyukqq@nyu.edu,2.755,2025,833 Ridge Oak Way,El Paso,TX,79934
+N69106,Vidovik,Haggas,vhaggasqr@nyu.edu,2.544,2027,63 Northwestern Center,Fargo,ND,58122
+N55267,Neile,Kerrod,nkerrodqs@nyu.edu,1.423,2026,3368 Blackbird Avenue,Las Vegas,NV,89193
+N59532,Christal,Fost,cfostqt@nyu.edu,1.047,2023,22881 Barby Avenue,Montgomery,AL,36114
+N88543,Myrtia,Fleote,mfleotequ@nyu.edu,0.649,2024,04507 Rockefeller Junction,Savannah,GA,31422
+N75421,Leora,Wistance,lwistanceqv@nyu.edu,1.184,2026,837 Esker Junction,Winston Salem,NC,27105
+N87697,Artair,Dansie,adansieqw@nyu.edu,0.281,2027,294 Mccormick Crossing,Pensacola,FL,32505
+N37231,Elnar,O'Carney,eocarneyqx@nyu.edu,1.383,2023,975 Barnett Drive,Sioux Falls,SD,57110
+N65548,Davine,Godbolt,dgodboltqy@nyu.edu,1.177,2027,04 Beilfuss Junction,Billings,MT,59105
+N52149,Jojo,Sommerled,jsommerledqz@nyu.edu,0.443,2027,64529 Quincy Way,Amarillo,TX,79188
+N55994,Alyosha,Devine,adeviner0@nyu.edu,3.746,2026,901 Forest Run Hill,Nashville,TN,37240
+N56289,Harriette,Stabbins,hstabbinsr1@nyu.edu,0.72,2023,5507 Hayes Road,Las Vegas,NV,89115
+N42679,Tedman,Franchi,tfranchir2@nyu.edu,2.234,2026,30966 Straubel Plaza,Rochester,NY,14609
+N88908,Lutero,Champerlen,lchamperlenr3@nyu.edu,2.897,2025,34 Leroy Alley,Charlotte,NC,28205
+N40208,Camila,Tucknott,ctucknottr4@nyu.edu,3.299,2024,3 Ridgeview Parkway,Flint,MI,48550
+N49491,Fayette,Jaquiss,fjaquissr5@nyu.edu,3.811,2023,8486 Delaware Road,West Palm Beach,FL,33421
+N73716,Marlene,Wem,mwemr6@nyu.edu,2.396,2025,952 Mariners Cove Street,Hollywood,FL,33023
+N83647,Dierdre,Matschek,dmatschekr7@nyu.edu,0.285,2026,22052 Golf View Avenue,Torrance,CA,90510
+N58582,Shalne,Waskett,swaskettr8@nyu.edu,2.136,2026,2800 Tomscot Trail,Arlington,TX,76004
+N38612,Temple,Ilchuk,tilchukr9@nyu.edu,0.678,2025,9 Ludington Terrace,Indianapolis,IN,46295
+N68264,Cissy,Messier,cmessierra@nyu.edu,2.682,2025,4 Milwaukee Street,Chandler,AZ,85246
+N47522,Isa,Hebditch,ihebditchrb@nyu.edu,1.34,2024,0795 West Center,Seattle,WA,98115
+N40230,Caesar,Possek,cpossekrc@nyu.edu,0.412,2027,2 Butterfield Lane,El Paso,TX,79905
+N36357,Nikolai,Gemson,ngemsonrd@nyu.edu,1.17,2024,52 Colorado Avenue,El Paso,TX,88535
+N50402,Horace,Marryatt,hmarryattre@nyu.edu,2.012,2025,9 Hermina Point,Kansas City,MO,64193
+N66907,Richie,Huddleston,rhuddlestonrf@nyu.edu,2.376,2024,64 Pierstorff Lane,Birmingham,AL,35210
+N48857,Arden,Garber,agarberrg@nyu.edu,1.216,2027,9847 Grover Crossing,Hartford,CT,06152
+N79177,Conn,Faragher,cfaragherrh@nyu.edu,1.201,2023,9184 Parkside Way,Dayton,OH,45432
+N88257,Sadie,Cottell,scottellri@nyu.edu,1.585,2027,23404 Truax Junction,Washington,DC,56944
+N84102,Gearard,Tousey,gtouseyrj@nyu.edu,1.094,2027,270 Farmco Plaza,Camden,NJ,08104
+N53365,Reggy,Edmans,redmansrk@nyu.edu,0.11,2025,27582 Aberg Center,Long Beach,CA,90847
+N71852,Alene,Kinch,akinchrl@nyu.edu,3.011,2027,79 Bowman Crossing,Dallas,TX,75251
+N75380,Vail,Cogdell,vcogdellrm@nyu.edu,1.052,2024,56680 Knutson Drive,New Orleans,LA,70187
+N37515,Katherina,Purser,kpurserrn@nyu.edu,0.259,2027,1073 South Way,Worcester,MA,01610
+N73305,Jessie,Scrimshaw,jscrimshawro@nyu.edu,0.069,2027,4299 Alpine Hill,Evansville,IN,47712
+N52675,Ashia,Guirardin,aguirardinrp@nyu.edu,2.599,2027,61377 Hanson Junction,Harrisburg,PA,17121
+N85150,Eziechiele,Prince,eprincerq@nyu.edu,2.528,2025,83 Pennsylvania Park,Lubbock,TX,79491
+N60278,Steward,Rudsdale,srudsdalerr@nyu.edu,1.282,2024,0 Prentice Court,Austin,TX,78737

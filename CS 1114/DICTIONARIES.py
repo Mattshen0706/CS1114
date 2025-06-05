@@ -146,21 +146,126 @@
 
 
 # PART 3: APPENDING PEOPLE TO CODE:
-datadict={}
-with open ('employees.txt',"r")as readfile:
-    for lines in readfile:
-        linestring=lines
-        linelist=linestring.split(' ')
-        datadict[linelist[0]]=(linelist[1],linelist[2],linelist[3])
+  
+# def add_employeeID(datadict):
+#     with open("employees.txt","w")as writefile:
+#         new_employee=input("Enter a new/existing ID, (Q) to quit: ")
+#         new_employeedata=[]
+#         while new_employee!="Q":
+#             new_employeedata.append(input("Enter the employees name: "))
+#             new_employeedata.append(input("Enter the employees position: "))
+#             new_employeedata.append(input("Enter the employees salary: "))
+#             new_employeedata=tuple(new_employeedata)
+#             datadict[new_employee]=new_employeedata
+#             new_employee=input("Enter a new/existing ID, (Q) to quit: ")
+#             new_employeedata=[]
+#         for key,value in datadict.items():
+#             print(key, end=" ",file=writefile)
+#             for elements in value:
+#                 print(elements,end=" ",file=writefile)
+#             print(file=writefile)
 
-function add_employeeID():
+# def main():
+#     datadict={}
+#     with open ('employees.txt',"r")as readfile:
+#         for lines in readfile:
+#             linestring=lines
+#             linelist=linestring.split(' ')
+#             datadict[linelist[0]]=(linelist[1],linelist[2],linelist[3])
+#         print(datadict)
+#     add_employeeID(datadict)
+        
+# main()
+
+
+# PART 4: AVERAGE SALARY OF ALL DEPARTMENTS:
+
+# with open("employees.txt","r") as readfile:
+#     departmentsalary={}
+#     for lines in readfile:
+#         linestring=lines
+#         linelist=linestring.split()
+#         if linelist[2] not in departmentsalary:
+#             departmentsalary[linelist[2]]=int(linelist[3])
+#         else:
+#             departmentsalary[linelist[2]]+=int(linelist[3])
+# print(departmentsalary)
+        
+# PART 5: AVERAGE SALARY OF ALL DEPARTMENTS:
+
+
+
+
+#MORE DICTIONARY PRACTICE:
+
+#1.
+
+# def template(map):
+#     for elements in map:
+#         if elements=="dog":
+#             return(map["dog"])
+#         else:
+#             return(-1)
+        
+# def main():
+#     animalmap={"dog":25,"cat":40204,"elephant":1}
+#     template(animalmap)
+
+#2.
+#     accounts={"saving":100,"checking":150}
+# def checkfunds(amt,chargeto):
+#     accounts[chargeto]-=amt
+
+# def main():
+
+#     withrdrawamaount=int("input amount to be withdrawn")
+#     checkfunds(withrdrawamaount,"saving")  
+
+
+#3.  
+#         
+# d1 = {'a':'a', 'b':'b', 3:'c', 'x':'5', 'y':'6', 'z':'7'}
+# d2 = {1:'111', 3:'222', 4:'333', 'y':'6', 'z':'7'}  
+# newd={'a':'a', 'b':'b', 3:'c', 'x':'5', 'y':'6', 'z':'7'}
+
+# d1 = {'a':'a', 'b':'b', 3:'c', 'x':'5', 'y':'6', 'z':'7'}
+# d2 = {1:'111', 3:'222', 4:'333', 'y':'6', 'z':'7'}
+# newd = {'a':'a', 'b':'b', 3:'c', 'x':'5', 'y':'6', 'z':'7'}
+
+# for key2 in d2.keys():
+#     if key2 in newd:
+#         newd[key2]+=d2[key2]
+#     else:
+#         newd[key2]=d2[key2]
     
+# print(newd)
 
-with open("employees.txt","w")as writefile:
-    for key,value in datadict.items():
-        print(key, end=" ",file=writefile)
-        for elements in value:
-            print(elements,end=" ",file=writefile)
-        print(file=writefile)
+#4.  
+
+# def check_sentance(sentance):
+#     wordcount={}
+#     new_list=sentance.split()
+#     lastword=""
+#     count=0
+#     for i in new_list:
+#         if i==lastword and i not in wordcount:
+#             wordcount[i]=1
+#         elif i==lastword:
+#             wordcount[i]+=1
+#         lastword=i
+#     return wordcount
+
+# def main():
+#     sentance=input("Enter a sentance: ")
+#     print(check_sentance(sentance))
+
+            
+# main()
+        
+
+        
+        
+
+
 
 
