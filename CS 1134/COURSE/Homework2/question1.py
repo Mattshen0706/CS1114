@@ -16,7 +16,7 @@ def fibs(n):
             fiblist.append(fiblist[-1]+fiblist[-2])
         yield fiblist[-1]
  
-for curr in fibs(8):
-    print (curr)
+# for curr in fibs(8):
+#     print (curr)
 
 

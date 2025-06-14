@@ -18,8 +18,8 @@ def shift(lst,k):
         lst.append(lst[i])
     return lst[startposition:]
 
-lst=[1,2,3,4,5,6]
-print(shift(lst,2))
+# lst=[1,2,3,4,5,6]
+# print(shift(lst,2))
 
 
 # b) 
@@ -42,8 +42,8 @@ def shift(lst,k,direction="left"):
     return lst[startposition:]
 
 
-lst=[1,2,3,4,5,6]
-print(shift(lst,2,"right"))
+# lst=[1,2,3,4,5,6]
+# print(shift(lst,2,"right"))
 
 
 

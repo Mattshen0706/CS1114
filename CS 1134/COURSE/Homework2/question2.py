@@ -16,5 +16,5 @@ def factors(num):
         if num % i ==0:
             yield round(num/i)
         
-for curr_factor in factors(100):
-    print (curr_factor)
+# for curr_factor in factors(100):
+#     print (curr_factor)
